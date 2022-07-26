@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #e8d9b3;
+}
+
+.navbar {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: "Argue DEMO";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+}
+
+.logo {
+  position: absolute;
+  width: 40px;
+  height: 60.84px;
+  left: 89px;
+  top: 52px;
+}
+
+.project-bar {
+  position: absolute;
+  width: 95px;
+  height: 36px;
+  left: 673px;
+  top: 66px;
+}
+
+.resume-bar {
+  position: absolute;
+  width: 93px;
+  height: 36px;
+  left: 1238px;
+  top: 66px;
+}
+
+.horizontal-line {
+  position: absolute;
+  width: 100vw;
+  height: 0px;
+  left: 0px;
+  top: 114px;
+  border: 1px solid #6c4013;
+}
