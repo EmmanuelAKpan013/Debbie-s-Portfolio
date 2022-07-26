@@ -1,15 +1,21 @@
 import "./HomePage.css";
-import logo from "../images/logo.png";
+import designerImage from "../images/designerImage.png";
+import productDesignerText from "../images/product designer.png";
+import Navbar from "../components/Navbar";
 function HomePage() {
   return (
-    <div className="navbar">
-      <div className="logo">
-        <img src={logo} alt="" />
+    <>
+      <Navbar />
+      <div className="designer-container">
+        <div className="designer-image">
+          <img src={designerImage} alt="" />
+        </div>
+        <div className="designer-text">
+          <img src={productDesignerText} alt="" />
+        </div>
+        <div className="designer-name">ONALO DEBORAH</div>
       </div>
-      <div className="project-bar">Projects</div>
-      <div className="resume-bar">Resume</div>
-      <hr className="horizontal-line"></hr>
-    </div>
+    </>
   );
 }
 

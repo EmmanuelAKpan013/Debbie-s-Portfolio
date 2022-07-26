@@ -1,54 +1,49 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 body {
   background: #e8d9b3;
 }
 
-.navbar {
-  position: relative;
+.designer-container {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
+  position: relative;
+  flex-direction: columns;
+}
+
+.designer-image {
+  position: absolute;
+  width: 370px;
+  height: 636px;
+  left: 550px;
+  top: 194px;
+
+  background: url("../images/designerImage.png");
+  border-radius: 150px;
+}
+
+.designer-text {
+  position: absolute;
+  width: 1059px;
+  height: 170px;
+  left: 225px;
+  top: 445px;
+
+  font-family: "Argue DEMO";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 128px;
+  line-height: 170px;
+}
+
+.designer-name {
+  position: absolute;
+  width: 228px;
+  height: 36px;
+  left: 630px;
+  top: 919px;
+  color: #6c4013;
+  text-align: center;
   font-family: "Argue DEMO";
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
-  line-height: 36px;
-}
-
-.logo {
-  position: absolute;
-  width: 40px;
-  height: 60.84px;
-  left: 89px;
-  top: 52px;
-}
-
-.project-bar {
-  position: absolute;
-  width: 95px;
-  height: 36px;
-  left: 673px;
-  top: 66px;
-}
-
-.resume-bar {
-  position: absolute;
-  width: 93px;
-  height: 36px;
-  left: 1238px;
-  top: 66px;
-}
-
-.horizontal-line {
-  position: absolute;
-  width: 100vw;
-  height: 0px;
-  left: 0px;
-  top: 114px;
-  border: 1px solid #6c4013;
+  line-height: 150%;
 }
