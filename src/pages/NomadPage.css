@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  width: auto;
+  height: 515px;
+  left: 2px;
+  top: 115px;
+  background: rgba(0, 0, 0, 0.7);
+}
