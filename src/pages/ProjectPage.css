@@ -27,6 +27,7 @@
   height: auto;
   left: 72px;
   top: 283px;
+  /* border: 1px solid red; */
 
   font-family: "Argue DEMO";
   font-style: normal;
@@ -40,6 +41,9 @@
 .project-list {
   border-bottom: 0.3px solid #664500;
   padding: 20px 0;
+}
+.project-list p {
+  cursor: pointer;
 }
 
 .project-item:nth-child(5) {

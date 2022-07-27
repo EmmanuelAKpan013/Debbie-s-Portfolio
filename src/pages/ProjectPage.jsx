@@ -17,7 +17,7 @@ function ProjectPage() {
               navigate(`/project/nomadbank`);
             }}
           >
-            Fastr - NomadBank
+            <p>Fastr - NomadBank</p>
           </div>
           <div
             className="project-list item2"
@@ -25,7 +25,7 @@ function ProjectPage() {
               navigate(`/project/blomblom`);
             }}
           >
-            Website Redesign - Bloobloom
+            <p>Website Redesign - Bloobloom</p>
           </div>
           <div
             className="project-list item3"
@@ -33,7 +33,7 @@ function ProjectPage() {
               navigate(`/project/saudipix`);
             }}
           >
-            Saudipix
+            <p>Saudipix</p>
           </div>
           <div
             className="project-list item4"
@@ -41,7 +41,7 @@ function ProjectPage() {
               navigate(`/project/investnow`);
             }}
           >
-            InvestNow.ng Redesign
+            <p>InvestNow.ng Redesign</p>
           </div>
           <div
             className="project-list item5"
@@ -49,7 +49,7 @@ function ProjectPage() {
               navigate(`/project/watertalk`);
             }}
           >
-            WaterTalk
+            <p className="listName">WaterTalk</p>
           </div>
         </div>
       </div>
