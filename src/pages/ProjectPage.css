@@ -1,0 +1,48 @@
+.projectPage-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.project-header {
+  position: absolute;
+  width: auto;
+  height: 58px;
+  left: 522px;
+  top: 173px;
+  color: #664500;
+  font-family: "Argue DEMO";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 120%;
+}
+
+.project-list {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+
+  /* position: absolute; */
+  width: 1260px;
+  height: auto;
+  left: 72px;
+  top: 283px;
+
+  font-family: "Argue DEMO";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 70px;
+
+  color: #664500;
+}
+
+.project-item {
+  border-bottom: 0.3px solid #664500;
+  padding: 20px 0;
+}
+
+.project-item:nth-child(5) {
+  border-bottom: none;
+  padding: 20px 0;
+}

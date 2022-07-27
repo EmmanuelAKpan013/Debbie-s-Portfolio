@@ -5,7 +5,7 @@ body {
 .designer-container {
   display: flex;
   position: relative;
-  flex-direction: columns;
+  flex-direction: column;
 }
 
 .designer-image {
