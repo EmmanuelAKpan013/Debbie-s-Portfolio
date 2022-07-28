@@ -5,6 +5,8 @@ import image1 from "../images/nomad/Rectangle 469.png";
 import image2 from "../images/nomad/Rectangle 498.png";
 import image3 from "../images/nomad/Rectangle 499.png";
 import image4 from "../images/nomad/Rectangle 500.png";
+import macbook from "../images/nomad/main.png";
+import macbookContent from "../images/nomad/15_ Macbook Pro Mockup Front view label.png";
 
 function NomadPage() {
   return (
@@ -50,6 +52,11 @@ function NomadPage() {
           <br />
           <p>2021 - Present</p>
         </div>
+      </div>
+
+      <div className="macbook-pro">
+        <img src={macbook} alt="" className="macbook" />
+        <img src={macbookContent} alt="" className="macbook-content" />
       </div>
     </>
   );

@@ -74,3 +74,31 @@
   line-height: 24px;
   font-family: "Circular Std";
 }
+
+.macbook-pro {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  width: 1544px;
+  height: 816px;
+  left: 0px;
+  top: 310px;
+  background: #051045;
+}
+
+.macbook {
+  position: absolute;
+  width: 734.5px;
+  height: 486px;
+  left: 400px;
+  top: 170px;
+}
+
+.macbook-content {
+  position: absolute;
+  width: 628px;
+  height: 393.75px;
+  left: 452px;
+  top: 223px;
+}

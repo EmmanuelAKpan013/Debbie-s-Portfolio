@@ -21,14 +21,10 @@
   display: flex;
   flex-direction: column;
   position: relative;
-
-  /* position: absolute; */
   width: 1260px;
   height: auto;
   left: 72px;
   top: 283px;
-  /* border: 1px solid red; */
-
   font-family: "Argue DEMO";
   font-style: normal;
   font-weight: 400;
@@ -46,7 +42,7 @@
   cursor: pointer;
 }
 
-.project-item:nth-child(5) {
+.project-list:nth-child(5) {
   border-bottom: none;
   padding: 20px 0;
 }
