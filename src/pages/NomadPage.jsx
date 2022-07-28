@@ -11,21 +11,24 @@ function NomadPage() {
     <>
       <Navbar />
       <div className="container">
-        {/* <div className="box-1">
+        <div className="nomad-logo">
           <img src={nomadLogo} alt="" />
+        </div>
+
+        {/* <div className="imgContainer">
+          <div className="nomadLandingImg img-1">
+            <img src={image1} alt="" />
+          </div>
+          <div className="nomadLandingImg img-2">
+            <img src={image2} alt="" />
+          </div>
+          <div className="nomadLandingImg img-3">
+            <img src={image3} alt="" />
+          </div>
+          <div className="nomadLandingImg img-4">
+            <img src={image4} alt="" />
+          </div>
         </div> */}
-        <div className="nomadLandingImg img-1">
-          <img src={image1} alt="" />
-        </div>
-        <div className="nomadLandingImg img-2">
-          <img src={image2} alt="" />
-        </div>
-        <div className="nomadLandingImg img-3">
-          <img src={image3} alt="" />
-        </div>
-        <div className="nomadLandingImg img-4">
-          <img src={image4} alt="" />
-        </div>
       </div>
     </>
   );
