@@ -15,7 +15,7 @@ function NomadPage() {
           <img src={nomadLogo} alt="" />
         </div>
 
-        {/* <div className="imgContainer">
+        <div className="imgContainer">
           <div className="nomadLandingImg img-1">
             <img src={image1} alt="" />
           </div>
@@ -28,7 +28,7 @@ function NomadPage() {
           <div className="nomadLandingImg img-4">
             <img src={image4} alt="" />
           </div>
-        </div> */}
+        </div>
       </div>
     </>
   );

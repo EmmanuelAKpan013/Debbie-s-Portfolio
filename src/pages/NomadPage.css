@@ -1,5 +1,4 @@
 .container {
-  /* display: flex; */
   align-items: center;
   justify-content: center;
   position: relative;
@@ -8,22 +7,20 @@
   left: 0px;
   right: 0;
   top: 115px;
-  background: rgba(0, 0, 0, 0.7);
 }
 
 .nomad-logo {
   position: absolute;
-  width: 545px;
-  height: 210px;
-  left: 448px;
-  top: 165px;
-  /* background: rgba(0, 0, 0, 0.7); */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1544px;
+  height: 515px;
+  left: 0;
+  top: 0;
+  background: rgba(0, 0, 0, 0.7);
+  z-index: 1;
 }
-
-/* .nomad-logo img {
-  z-index: 1000;
-  opacity: 1;
-} */
 
 .imgContainer {
   display: flex;
@@ -34,30 +31,25 @@
   height: 515px;
   left: 0px;
   right: 0;
-  top: 0px;
-  background: rgba(0, 0, 0, 0.7);
+  top: 1px;
 }
 
 .img-1 img {
   width: 386px;
   height: 515px;
-  opacity: 0.3;
 }
 
 .img-2 img {
   width: 386px;
   height: 515px;
-  opacity: 0.3;
 }
 
 .img-3 img {
   width: 386px;
   height: 515px;
-  opacity: 0.3;
 }
 
 .img-4 img {
   width: 386px;
   height: 515px;
-  opacity: 0.3;
 }
