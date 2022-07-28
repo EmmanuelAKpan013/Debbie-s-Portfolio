@@ -30,6 +30,22 @@ function NomadPage() {
           </div>
         </div>
       </div>
+
+      <div className="roleContainer">
+        <div className="role">
+          <h3>ROLE</h3>
+          <p>Product Strategy, Systems Design</p>
+          <p>Product Design, Interaction Design</p>
+        </div>
+        <div className="scope">
+          <h3>SCOPE</h3>
+          <p>Financial solution for MSMEs</p>
+        </div>
+        <div className="year">
+          <h3>YEAR</h3>
+          <p>2021 - Present</p>
+        </div>
+      </div>
     </>
   );
 }
