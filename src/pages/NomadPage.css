@@ -3,9 +3,30 @@
   align-items: center;
   justify-content: center;
   position: relative;
-  width: auto;
+  width: 1544;
   height: 515px;
-  left: 2px;
-  top: 115px;
+  left: 0px;
+  right: 0;
+  top: 117px;
   background: rgba(0, 0, 0, 0.7);
+}
+
+.img-1 img {
+  width: 386px;
+  height: 515px;
+}
+
+.img-2 img {
+  width: 386px;
+  height: 515px;
+}
+
+.img-3 img {
+  width: 386px;
+  height: 515px;
+}
+
+.img-4 img {
+  width: 386px;
+  height: 515px;
 }
