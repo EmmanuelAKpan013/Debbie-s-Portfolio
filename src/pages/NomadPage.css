@@ -119,8 +119,8 @@
 .background-large-text {
   position: relative;
   top: -80px;
-  /* border: 1px solid red; */
-  width: 40%;
+  left: 45px;
+  width: 30%;
   height: 400px;
 }
 
@@ -135,26 +135,23 @@
 }
 
 .background-paragraph {
+  position: relative;
+  right: 85px;
   display: flex;
   flex-direction: column;
   width: 40%;
   height: auto;
   color: #ffffff;
-  /* border: 1px solid red; */
 }
 
 .para-1 {
-  /* margin-bottom: 10px; */
   padding: 0px 20px 20px 8px;
   font-size: 18px;
   line-height: 32px;
-  /* border: 1px solid rgb(0, 255, 13); */
 }
 
 .para-2 {
-  /* margin-bottom: 10px; */
   padding: 0px 20px 20px 20px;
   font-size: 18px;
   line-height: 32px;
-  /* border: 1px solid rgb(0, 255, 13); */
 }
