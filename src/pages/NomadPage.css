@@ -204,3 +204,12 @@
 .solution h4 {
   margin-bottom: 5px;
 }
+
+.research {
+  position: absolute;
+  width: 1585px;
+  height: 793px;
+  left: 0px;
+  top: 3130px;
+  background: linear-gradient(90deg, #265de3 0%, #ab85ee 100%);
+}

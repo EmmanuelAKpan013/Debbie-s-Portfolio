@@ -62,7 +62,7 @@ function NomadPage() {
       <div className="background-section">
         <div className="background-large-text">
           <h4>01</h4>
-          <br /> <h2>BACKGROUND</h2>
+          <br /> <h2>Background</h2>
         </div>
         <div className="background-paragraph">
           <div className="para-1">
@@ -111,8 +111,8 @@ function NomadPage() {
           <h4>02</h4>
           <br />
           <h2>
-            WORK <br />
-            OVERVIEW
+            Work <br />
+            OVerview
           </h2>
         </div>
         <div className="work-over-text-para">
@@ -143,6 +143,17 @@ function NomadPage() {
             </p>
           </div>
         </div>
+      </div>
+      <div className="research">
+        <div className="research-header-and-image">
+          <div className="research-header">
+            <h4>03</h4>
+            <br />
+            <h2>Research</h2>
+          </div>
+          <div className="research-image"></div>
+        </div>
+        <div className="research-para"></div>
       </div>
     </>
   );
