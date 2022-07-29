@@ -7,6 +7,9 @@ import image3 from "../images/nomad/Rectangle 499.png";
 import image4 from "../images/nomad/Rectangle 500.png";
 import macbook from "../images/nomad/main.png";
 import macbookContent from "../images/nomad/15_ Macbook Pro Mockup Front view label.png";
+import researchLadyOne from "../images/nomad/sigmund-YUuSAJkS3U4-unsplash.png";
+import researchLadyTwo from "../images/nomad/green-chameleon-s9CC2SKySJM-unsplash.png";
+import researchManOne from "../images/nomad/leon-m2TU2gfqSeE-unsplash 1.png";
 
 function NomadPage() {
   return (
@@ -151,7 +154,11 @@ function NomadPage() {
             <br />
             <h2>Research</h2>
           </div>
-          <div className="research-image"></div>
+          <div className="research-image">
+            <img src={researchLadyOne} alt="" />
+            <img src={researchLadyTwo} alt="" />
+            <img src={researchManOne} alt="" />
+          </div>
         </div>
         <div className="research-para"></div>
       </div>
