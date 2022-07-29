@@ -132,7 +132,6 @@ function NomadPage() {
           <br />
           <div className="solution">
             <h4>Solution</h4>
-            <br />
             <p>
               The goal is for Nomad Bank to offer a digital solution that is SME
               focused Digital Banking and Unlocks Working Capital for these
