@@ -58,6 +58,53 @@ function NomadPage() {
         <img src={macbook} alt="" className="macbook" />
         <img src={macbookContent} alt="" className="macbook-content" />
       </div>
+
+      <div className="background-section">
+        <div className="background-large-text">
+          <h4>01</h4>
+          <br /> <h2>BACKGROUND</h2>
+        </div>
+        <div className="background-paragraph">
+          <div className="para-1">
+            <p>
+              Currently, In Nigeria, MSMEs are the engines powering the Nation’s
+              Economy. These MSMEs are about 42 million in number, however only
+              about 4% have access to capital, ie very few number of these MSMEs
+              have access to affordable sources of working capital. This is also
+              due to the fact that these processes from traditional and neo
+              banks are quite tedious and the requirements needed for these
+              might not also be easily accessible.
+            </p>
+            <br />
+            <p>
+              Nomad Bank provided a feature - Fastr which provides an enhanced
+              digital financial service which included:
+            </p>
+          </div>
+          <div className="para-2">
+            <ul>
+              <li>
+                <p>
+                  A complete Order to Cash solution to streamline and
+                  standardise the invoicing process.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Analytics tools record business performance, quantifying the
+                  value of early payments in money and time.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Early payment on invoices means SMEs can access money owed
+                  within 48 hours rather than waiting 30, 60 or even 180 days!
+                </p>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
     </>
   );
 }
