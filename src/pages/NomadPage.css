@@ -217,3 +217,37 @@
   /* border: 1px solid red; */
   background: linear-gradient(90deg, #265de3 0%, #ab85ee 100%);
 }
+
+.research-header-and-image {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  border: 1px solid red;
+}
+
+.research-header h4 {
+  font-size: 18px;
+  color: #febc2c;
+}
+
+.research-header h2 {
+  font-size: 84px;
+}
+
+.research-image {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 1rem;
+
+  border: 1px solid red;
+}
+
+.research-image > div {
+  width: auto;
+  border: 1px solid green;
+}
+
+.research-para {
+  width: 40%;
+  border: 1px solid red;
+}

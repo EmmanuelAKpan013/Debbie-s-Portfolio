@@ -155,12 +155,28 @@ function NomadPage() {
             <h2>Research</h2>
           </div>
           <div className="research-image">
-            <img src={researchLadyOne} alt="" />
-            <img src={researchLadyTwo} alt="" />
-            <img src={researchManOne} alt="" />
+            <div>
+              <img src={researchLadyOne} alt="" />
+            </div>
+            <div>
+              <img src={researchLadyTwo} alt="" />
+            </div>
+            <div>
+              <img src={researchManOne} alt="" />
+            </div>
           </div>
         </div>
-        <div className="research-para"></div>
+        <div className="research-para">
+          <div className="interview">
+            <hr />
+            <h4>Interview</h4>
+            <p>
+              We were able to determine the main challenges that these business
+              owners were encountering in their activities through zoom calls
+              and random interactions with MSME entrepreneurs.
+            </p>
+          </div>
+        </div>
       </div>
     </>
   );
