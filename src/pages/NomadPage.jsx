@@ -155,14 +155,14 @@ function NomadPage() {
             <h2>Research</h2>
           </div>
           <div className="research-image">
-            <div>
-              <img src={researchLadyOne} alt="" />
+            <div className="image-box-1">
+              Box 1{/* <img src={researchLadyOne} alt="" /> */}
             </div>
-            <div>
-              <img src={researchLadyTwo} alt="" />
+            <div className="image-box-2">
+              Box 2{/* <img src={researchLadyTwo} alt="" /> */}
             </div>
-            <div>
-              <img src={researchManOne} alt="" />
+            <div className="image-box-3">
+              Box 3{/* <img src={researchManOne} alt="" /> */}
             </div>
           </div>
         </div>

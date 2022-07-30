@@ -223,6 +223,7 @@
   flex-direction: column;
   width: 40%;
   border: 1px solid red;
+  /* object-fit: contain; */
 }
 
 .research-header h4 {
@@ -237,14 +238,31 @@
 .research-image {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-gap: 1rem;
+  /* grid-gap: 1rem; */
+  /* align-items: center;
+  justify-content: center; */
 
   border: 1px solid red;
 }
 
 .research-image > div {
+  display: grid;
   width: auto;
+  height: 200px;
   border: 1px solid green;
+  align-items: center;
+  justify-content: center;
+  background: red;
+  color: #ffffff;
+}
+
+.image-box-1 {
+}
+
+.image-box-2 {
+}
+
+.image-box-3 {
 }
 
 .research-para {
