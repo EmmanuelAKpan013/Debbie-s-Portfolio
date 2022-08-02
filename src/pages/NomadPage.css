@@ -367,10 +367,7 @@
   left: 0px;
   top: 3923px;
   color: #ffffff;
-  font-family: "Argue DEMO";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 45px;
+
   background: #051045;
 }
 
@@ -378,4 +375,8 @@
   position: absolute;
   top: 100px;
   left: 160px;
+  font-family: "Argue DEMO";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 45px;
 }
