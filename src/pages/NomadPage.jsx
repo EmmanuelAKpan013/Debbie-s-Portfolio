@@ -50,7 +50,7 @@ function NomadPage() {
             Financial solution for <br /> MSMEs
           </p>
         </div>
-        <div className="roleContent">
+        <div className="roleContent year">
           <h3>YEAR</h3>
           <br />
           <p>2021 - Present</p>
@@ -80,8 +80,8 @@ function NomadPage() {
             </p>
             <br />
             <p>
-              Nomad Bank provided a feature - Fastr which provides an enhanced
-              digital financial service which included:
+              Nomad Bank provided a feature - <strong>Fastr</strong> which
+              provides an enhanced digital financial service which included:
             </p>
           </div>
           <div className="para-2">

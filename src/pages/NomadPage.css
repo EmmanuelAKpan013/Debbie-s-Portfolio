@@ -65,6 +65,7 @@
   top: 630px;
   color: white;
   background: #1c1b1b;
+  font-family: "Circular Std", sans-serif;
 }
 
 .roleContent {
@@ -72,7 +73,11 @@
   height: 120px;
   padding: 10px;
   line-height: 24px;
-  font-family: "Circular Std";
+  /* font-family: "Circular Std"; */
+}
+
+.year {
+  font-family: "HK Grotesk", sans-serif;
 }
 
 .macbook-pro {
@@ -125,11 +130,17 @@
 }
 
 .background-large-text h4 {
+  font-family: "Recoleta";
+  font-style: normal;
+  font-weight: 600;
   font-size: 18px;
   color: #febc2c;
 }
 
 .background-large-text h2 {
+  font-family: "Argue DEMO";
+  font-style: normal;
+  font-weight: 400;
   font-size: 84px;
   color: #ffffff;
 }
@@ -142,18 +153,21 @@
   width: 40%;
   height: auto;
   color: #ffffff;
+  font-family: "Circular Std";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 32px;
 }
 
 .para-1 {
   padding: 0px 20px 20px 8px;
-  font-size: 18px;
-  line-height: 32px;
+  /* line-height: 32px; */
 }
 
 .para-2 {
   padding: 0px 20px 20px 20px;
-  font-size: 18px;
-  line-height: 32px;
+  /* line-height: 32px; */
 }
 
 .work-overview {
@@ -178,11 +192,17 @@
 }
 
 .work-over-text h4 {
+  font-family: "Recoleta";
+  font-style: normal;
+  font-weight: 600;
   font-size: 18px;
   color: #febc2c;
 }
 
 .work-over-text h2 {
+  font-family: "Argue DEMO";
+  font-style: normal;
+  font-weight: 400;
   font-size: 84px;
 }
 
@@ -193,15 +213,26 @@
   height: auto;
   font-family: "Circular Std";
   font-style: normal;
-  font-size: 20px;
   line-height: 32px;
+  color: #ffffff;
+}
+
+.fastr {
+  font-weight: 400;
+  font-size: 20px;
 }
 
 .solution {
+  font-weight: 400;
+  font-size: 18px;
   margin-bottom: 5px;
 }
 
 .solution h4 {
+  font-family: "Argue DEMO";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
   margin-bottom: 5px;
 }
 
@@ -234,6 +265,9 @@
 }
 
 .research-header h2 {
+  font-family: "Argue DEMO";
+  font-style: normal;
+  font-weight: 400;
   font-size: 84px;
 }
 
@@ -305,9 +339,15 @@
 }
 
 .interview > h4 {
+  font-family: "Recoleta";
+  font-style: normal;
+  font-weight: 600;
   font-size: 24px;
 }
 
 .interview > p {
-  font-size: 18px;
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
 }
