@@ -171,8 +171,22 @@ function NomadPage() {
         </div>
         <div className="research-para">
           <div className="interview">
-            <hr />
-            <h4>Interview</h4>
+            <hr className="interview-line" />
+            <br />
+            <h4>Interviews</h4>
+            <br />
+            <p>
+              We were able to determine the main challenges that these business
+              owners were encountering in their activities through zoom calls
+              and random interactions with MSME entrepreneurs.
+            </p>
+          </div>
+
+          <div className="interview">
+            <hr className="interview-line" />
+            <br />
+            <h4>Interviews</h4>
+            <br />
             <p>
               We were able to determine the main challenges that these business
               owners were encountering in their activities through zoom calls

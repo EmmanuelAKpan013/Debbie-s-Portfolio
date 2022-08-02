@@ -277,6 +277,16 @@
 }
 
 .research-para {
+  /* display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center; */
   width: 40%;
-  /* border: 1px solid red; */
+  border: 1px solid red;
+  padding: 10px;
+}
+
+.interview {
+  border: 1px solid red;
+  height: 150px;
 }
