@@ -10,6 +10,7 @@ import macbookContent from "../images/nomad/15_ Macbook Pro Mockup Front view la
 import researchLadyOne from "../images/nomad/sigmund-YUuSAJkS3U4-unsplash.png";
 import researchLadyTwo from "../images/nomad/green-chameleon-s9CC2SKySJM-unsplash.png";
 import researchManOne from "../images/nomad/leon-m2TU2gfqSeE-unsplash 1.png";
+import meritThomas from "../images/nomad/meritt-thomas-52fj00DaOPA-unsplash.png";
 
 function NomadPage() {
   return (
@@ -191,6 +192,29 @@ function NomadPage() {
               We were able to determine the main challenges that these business
               owners were encountering in their activities through zoom calls
               and random interactions with MSME entrepreneurs.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div className="persona">
+        <h2>Persona</h2>
+        <div className="persona-image-description">
+          <div className="persona-image">
+            <img src={meritThomas} alt="" />
+          </div>
+          <div className="description">
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Voluptatibus, nobis hic non sit corrupti officia, debitis minus
+              voluptatum illo quis cum aspernatur modi ipsam expedita
+              doloremque? Dolore quae ipsa a ad nam corporis ab iusto corrupti
+              officiis nesciunt consequatur molestias possimus cumque dolorum
+              amet animi consequuntur deleniti error, inventore rerum ullam
+              veniam. Vero, dignissimos earum animi hic fugiat eaque numquam.
+              Dolorum at a impedit, nihil hic quibusdam esse ab animi sit
+              aliquam atque, dolore, beatae voluptatibus rem ad? Ullam,
+              voluptas.
             </p>
           </div>
         </div>

@@ -359,3 +359,23 @@
   font-weight: 500;
   font-size: 15px;
 }
+
+.persona {
+  position: absolute;
+  width: 1585px;
+  height: 700px;
+  left: 0px;
+  top: 3923px;
+  color: #ffffff;
+  font-family: "Argue DEMO";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 45px;
+  background: #051045;
+}
+
+.persona > h2 {
+  position: absolute;
+  top: 100px;
+  left: 160px;
+}
