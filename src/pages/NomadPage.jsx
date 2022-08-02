@@ -181,7 +181,7 @@ function NomadPage() {
               and random interactions with MSME entrepreneurs.
             </p>
           </div>
-
+          <br />
           <div className="interview">
             <hr className="interview-line" />
             <br />

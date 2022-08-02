@@ -222,6 +222,8 @@
   display: flex;
   flex-direction: column;
   width: 40%;
+  position: relative;
+  left: 45px;
   /* border: 1px solid red; */
   /* object-fit: contain; */
 }
@@ -281,12 +283,31 @@
   flex-direction: column;
   justify-content: space-between;
   align-items: center; */
-  width: 40%;
-  border: 1px solid red;
-  padding: 10px;
+  position: relative;
+  top: 80px;
+  right: 20px;
+  width: 30%;
+  color: #e0e0e0;
+  /* border: 1px solid red; */
+  /* padding: 10px; */
+  line-height: 24px;
 }
 
 .interview {
-  border: 1px solid red;
-  height: 150px;
+  /* border: 1px solid red; */
+  height: 180px;
+  margin: 0px 0 10px 0;
+}
+
+.interview-line {
+  width: 32px;
+  border: 2px solid #f2f2f2;
+}
+
+.interview > h4 {
+  font-size: 24px;
+}
+
+.interview > p {
+  font-size: 18px;
 }
