@@ -219,20 +219,28 @@
 
 .fastr {
   font-weight: 400;
+  font-size: 18px;
+  color: #cfcfcf;
+}
+
+.fastr > strong {
   font-size: 20px;
+  color: #ffffff;
 }
 
 .solution {
   font-weight: 400;
   font-size: 18px;
   margin-bottom: 5px;
+  color: #cfcfcf;
 }
 
 .solution h4 {
   font-family: "Argue DEMO";
   font-style: normal;
-  font-weight: 400;
+  font-weight: 600;
   font-size: 20px;
+  color: #ffffff;
   margin-bottom: 5px;
 }
 
