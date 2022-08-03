@@ -389,7 +389,6 @@
   top: 160px;
   left: 160px;
   right: 140px;
-  border: 1px solid red;
 }
 
 .persona-image > img {
@@ -423,11 +422,7 @@
   font-weight: 400;
   font-size: 20px;
   width: 50%;
-  /* line-height: 28px; */
-  /* or 140% */
-
   letter-spacing: 0.03em;
-
   color: #febc2c;
 }
 
@@ -451,7 +446,6 @@
   font-weight: 400;
   font-size: 20px;
   color: #000000;
-  /* line-height: 28px; */
 }
 
 .card > ul {
@@ -461,6 +455,5 @@
   font-size: 14px;
   line-height: 28px;
   padding: 25px 15px;
-
   color: #000000;
 }
