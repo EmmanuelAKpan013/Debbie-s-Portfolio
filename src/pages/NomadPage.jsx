@@ -204,18 +204,30 @@ function NomadPage() {
             <img src={meritThomas} alt="" />
           </div>
           <div className="description">
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Voluptatibus, nobis hic non sit corrupti officia, debitis minus
-              voluptatum illo quis cum aspernatur modi ipsam expedita
-              doloremque? Dolore quae ipsa a ad nam corporis ab iusto corrupti
-              officiis nesciunt consequatur molestias possimus cumque dolorum
-              amet animi consequuntur deleniti error, inventore rerum ullam
-              veniam. Vero, dignissimos earum animi hic fugiat eaque numquam.
-              Dolorum at a impedit, nihil hic quibusdam esse ab animi sit
-              aliquam atque, dolore, beatae voluptatibus rem ad? Ullam,
-              voluptas.
+            <h2>Olareweju Tolani.</h2>
+            <br />
+            <p className="first-paragraph">
+              A small business owner who has run his business for close to 6
+              months in Kaduna Nigeria. Olarewaju spends her day filling forms
+              and making calls to the banks to confirm if payments have been
+              made on his goods and services supplied . Most of the time, he
+              ends up making mistakes, money lost with no way to track them or
+              his services rendered in the last threee months and no way to
+              build good credit scroe as a result of lack of enough evidence to
+              show his credibility which also is due to suppliers failing him at
+              different points
             </p>
+            <br />
+            <p className="second-paragraph">
+              “Spending hours searching and filling paperwork is exhausting and
+              overwhelming. I feel ineffecient on most days”
+            </p>
+            <div className="card-container">
+              <div className="card">
+                <h3>Pain Points</h3>
+              </div>
+              <div className="card"></div>
+            </div>
           </div>
         </div>
       </div>

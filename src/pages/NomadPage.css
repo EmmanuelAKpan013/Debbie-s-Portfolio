@@ -363,7 +363,7 @@
 .persona {
   position: absolute;
   width: 1585px;
-  height: 700px;
+  height: 750px;
   left: 0px;
   top: 3923px;
   color: #ffffff;
@@ -379,4 +379,78 @@
   font-style: normal;
   font-weight: 400;
   font-size: 45px;
+}
+
+.persona-image-description {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+  position: absolute;
+  top: 160px;
+  left: 160px;
+  right: 140px;
+  border: 1px solid red;
+}
+
+.persona-image > img {
+  border-radius: 50%;
+  border: 1px solid green;
+  margin: 20px 50px 0 10px;
+}
+
+.description {
+  border: 1px solid yellow;
+  margin: 20px 50px;
+  padding: 10px;
+}
+
+.description > h2 {
+  font-family: "Argue DEMO";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+}
+
+.first-paragraph {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+}
+
+.second-paragraph {
+  font-family: "Recoleta";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  width: 50%;
+  /* line-height: 28px; */
+  /* or 140% */
+
+  letter-spacing: 0.03em;
+
+  color: #febc2c;
+}
+
+.card-container {
+  display: flex;
+}
+
+.card {
+  width: 439px;
+  height: 215px;
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 8px;
+  border: 1px solid red;
+  margin: 20px 10px;
+  padding: 20px;
+}
+
+.card > h3 {
+  font-family: "Recoleta";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+  /* line-height: 28px; */
 }
