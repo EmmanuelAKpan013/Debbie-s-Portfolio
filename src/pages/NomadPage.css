@@ -416,6 +416,7 @@
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
+  line-height: 24px;
 }
 
 .second-paragraph {
@@ -453,4 +454,15 @@
   font-size: 20px;
   color: #000000;
   /* line-height: 28px; */
+}
+
+.card > ul {
+  font-family: "Circular Std";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 28px;
+  padding: 25px 15px;
+
+  color: #000000;
 }

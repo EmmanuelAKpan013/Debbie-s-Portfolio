@@ -225,8 +225,35 @@ function NomadPage() {
             <div className="card-container">
               <div className="card">
                 <h3>Pain Points</h3>
+                <ul>
+                  <li>
+                    <p>
+                      Unable to build credit score due to late payment on the
+                      part of suppliers
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      Frustration keeping up with paperwork as business grows
+                      daily
+                    </p>
+                  </li>
+                </ul>
               </div>
-              <div className="card"></div>
+              <div className="card">
+                <h3>Needs</h3>
+                <ul>
+                  <li>
+                    <p>
+                      A credible way to build credit score to unlock capital for
+                      his growing business
+                    </p>
+                  </li>
+                  <li>
+                    <p>A digital tool which can aid in tracking expenses.</p>
+                  </li>
+                </ul>
+              </div>
             </div>
           </div>
         </div>
