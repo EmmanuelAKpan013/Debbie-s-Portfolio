@@ -263,6 +263,11 @@ function NomadPage() {
       <div className="girl-image">
         <img src={girlImageFullWidth} alt="" />
       </div>
+
+      <div className="website-section">
+        <div className="website-section-header"></div>
+        <div className="website-section-paragraph"></div>
+      </div>
     </>
   );
 }
