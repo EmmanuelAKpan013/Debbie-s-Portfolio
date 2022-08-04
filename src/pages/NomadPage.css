@@ -605,3 +605,37 @@
 
   color: rgba(16, 16, 16, 0.6);
 }
+
+.wireframe-section {
+  position: relative;
+  width: 1585px;
+  height: 1339px;
+  top: 5680px;
+
+  background: #051045;
+}
+
+.wireframe-section > h2 {
+  position: absolute;
+  top: 70px;
+  left: 180px;
+  font-family: "Argue DEMO";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 64px;
+  color: #ffffff;
+}
+
+.wireframe-images {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 1.5rem;
+  position: absolute;
+  top: 180px;
+  left: 200px;
+}
+
+.wireframeImage-4 {
+  background: #ffffff;
+}
