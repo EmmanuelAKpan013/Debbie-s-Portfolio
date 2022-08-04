@@ -472,10 +472,28 @@
 }
 
 .website-section {
+  display: flex;
+  justify-content: space-around;
   position: absolute;
   width: 1585px;
   height: 1813px;
   left: 0px;
   top: 5312px;
   background: linear-gradient(90deg, #265de3 0%, #ab85ee 100%);
+}
+
+.website-section-header > h4 {
+  font-family: "Recoleta";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  color: #febc2c;
+}
+
+.website-section-header > h2 {
+  font-family: "Argue DEMO";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 96px;
+  color: #ffffff;
 }

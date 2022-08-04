@@ -265,8 +265,17 @@ function NomadPage() {
       </div>
 
       <div className="website-section">
-        <div className="website-section-header"></div>
-        <div className="website-section-paragraph"></div>
+        <div className="website-section-header">
+          <h4>05</h4>
+          <br />
+          <h2>Website</h2>
+        </div>
+        <div className="website-section-paragraph">
+          This webapp was proffered as a solution as in one dashboard, a user is
+          able to track his invoices and purchase orders, create a purchase
+          order and keep record of his or her credit and even have access to
+          payments before the supplier releases them- unlocking capital.
+        </div>
       </div>
     </>
   );
