@@ -538,7 +538,7 @@
 .website-section-table {
   position: absolute;
   width: 1350px;
-  height: 826.74px;
+  height: 1200px;
   left: 120px;
   top: 550px;
   background: #ffffff;
@@ -563,7 +563,7 @@
 .chart {
   border: 1px solid red;
   position: relative;
-  top: 100px;
+  top: 120px;
   left: 20px;
   width: 1300px;
   display: grid;
@@ -580,7 +580,15 @@
   background: linear-gradient(rgba(255, 140, 123, 0.96), #ff4a90);
 }
 
-.chart > div {
+.chart-text-header {
+  font-family: "Avenir Next LT Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  color: #000000;
+}
+
+.chart-text {
   border: 1px solid green;
   font-family: "Avenir Next LT Pro";
   font-style: normal;

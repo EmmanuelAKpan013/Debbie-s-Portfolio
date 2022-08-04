@@ -315,12 +315,14 @@ function NomadPage() {
                   Looking for softwares that can help create and manage purchase
                   orders
                 </li>
+                <br />
                 <li>Reading reviews on Nomad's Invoice management system</li>
               </ul>
             </div>
             <div className="chart-text">
               <ul>
                 <li>Creating an account on Nomad</li>
+                <br />
                 <li>Completing the To-do-list to set up their account</li>
               </ul>
             </div>
@@ -330,6 +332,7 @@ function NomadPage() {
                   Clicking 'New Purchase Order' button to create a fresh
                   purchase order
                 </li>
+                <br />
                 <li>
                   Edit purchase order created by you or other invited users
                 </li>
@@ -338,6 +341,7 @@ function NomadPage() {
             <div className="chart-text">
               <ul>
                 <li>Review invoices sent by suppliers.</li>
+                <br />
                 <li>Accept or reject invoices with stated reasons.</li>
               </ul>
             </div>
@@ -353,13 +357,177 @@ function NomadPage() {
                 </li>
               </ul>
             </div>
-            <div className="chart-text"></div>
-            <div className="chart-text"></div>
-            <div className="chart-text"></div>
-            <div className="chart-text"></div>
-            <div className="chart-text"></div>
-            <div className="chart-text"></div>
-            <div className="chart-text"></div>
+            <div className="chart-text-header">Thinking</div>
+            <div className="chart-text">
+              <ul>
+                <li>
+                  What software or product can I use to manage invoices and
+                  purchase orders completely?
+                </li>
+              </ul>
+            </div>
+            <div className="chart-text">
+              <ul>
+                <li>
+                  How solid is Nomad's verification process? Can it protect me
+                  and my company from fraud?
+                </li>
+              </ul>
+            </div>
+            <div className="chart-text">
+              <ul>
+                <li>How fast can I create a purchase order?</li>
+                <br />
+                <li>Can other people help in creating purchase orders?</li>
+                <br />
+                <li>Can purchase orders be edited? </li>
+                <br />
+                <li>
+                  Will I be notified if other people edit a purchase order I
+                  created or create a new one?
+                </li>
+              </ul>
+            </div>
+            <div className="chart-text">
+              <ul>
+                <li>What options do I have with managing invoices?</li>
+                <br />
+                <li>
+                  Am I the only one authorised to accept or reject invoices?
+                </li>
+              </ul>
+            </div>
+            <div className="chart-text">
+              <ul>
+                <li>Who can I talk to from the dispute screen?</li>
+                <br />
+                <li>How long will it take to get a response?</li>
+                <br />
+                <li>Can it completely be handled here?</li>
+                <br />
+                <li>How will I be notified when there is a response?</li>
+              </ul>
+            </div>
+            <div className="chart-text">
+              <ul>
+                <li>How many people can I invite?</li>
+                <br />
+                <li>Can I monitor what they do?</li>
+                <br />
+                <li>What level of authority can I give them?</li>
+              </ul>
+            </div>
+            <div className="chart-text-header">Touch Point</div>
+            <div className="chart-text">
+              <ul>
+                <li>Direct Google search</li>
+                <br />
+                <li>Social media</li>
+                <br />
+                <li>Nomad landing page</li>
+              </ul>
+            </div>
+            <div className="chart-text">
+              <ul>
+                <li>Nomad landing page</li>
+                <br />
+                <li>Onboarding screen</li>
+                <br />
+                <li>Welcome screen</li>
+              </ul>
+            </div>
+            <div className="chart-text">
+              <ul>
+                <li>New purchase order screen</li>
+                <br />
+                <li>Purchase order screen</li>
+              </ul>
+            </div>
+            <div className="chart-text">
+              <ul>
+                <li>Invoice management screen</li>
+                <br />
+                <li>Invoice review screen</li>
+              </ul>
+            </div>
+            <div className="chart-text">
+              <ul>
+                <li>Dispute screen</li>
+              </ul>
+            </div>
+            <div className="chart-text">
+              <ul>
+                <li>Invite users screen</li>
+              </ul>
+            </div>
+            <div className="chart-text-header">Emotion</div>
+            <div className="chart-text">
+              <ul>
+                <li>Overwhelmed</li>
+              </ul>
+            </div>
+            <div className="chart-text">
+              <ul>
+                <li>Curious</li>
+              </ul>
+            </div>
+            <div className="chart-text">
+              <ul>
+                <li>Excited</li>
+              </ul>
+            </div>
+            <div className="chart-text">
+              <ul>
+                <li>Thinking</li>
+              </ul>
+            </div>
+            <div className="chart-text">
+              <ul>
+                <li>Confused</li>
+              </ul>
+            </div>
+            <div className="chart-text">
+              <ul>
+                <li>Satisfied</li>
+              </ul>
+            </div>
+            <div className="chart-text-header">Opporunity</div>
+            <div className="chart-text">
+              <ul>
+                <li>Increase reach on Google and social media</li>
+              </ul>
+            </div>
+            <div className="chart-text">
+              <ul>
+                <li>
+                  Increase onboarding speed and attractiveness of welcoming
+                  screens
+                </li>
+              </ul>
+            </div>
+            <div className="chart-text">
+              <ul>
+                <li>
+                  Create quick tutorials for creating and managing purchase
+                  orders from the New Purchase Order screen
+                </li>
+              </ul>
+            </div>
+            <div className="chart-text">
+              <ul>
+                <li>Create an FAQ that answers basic questions</li>
+              </ul>
+            </div>
+            <div className="chart-text">
+              <ul>
+                <li>Create an FAQ that answers basic questions</li>
+              </ul>
+            </div>
+            <div className="chart-text">
+              <ul>
+                <li>Create an FAQ that answers basic questions</li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
