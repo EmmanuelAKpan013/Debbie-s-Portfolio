@@ -472,8 +472,6 @@
 }
 
 .website-section {
-  display: flex;
-  justify-content: space-around;
   position: absolute;
   width: 1585px;
   height: 1813px;
@@ -482,13 +480,17 @@
   background: linear-gradient(90deg, #265de3 0%, #ab85ee 100%);
 }
 
+.section-header-container {
+  display: flex;
+  justify-content: space-around;
+}
+
 .website-section-header {
   position: relative;
   left: 40px;
   top: 90px;
   width: 30%;
   height: 400px;
-  border: 1px solid red;
 }
 
 .website-section-header > h4 {
@@ -514,7 +516,6 @@
   width: 40%;
   height: 400px;
   padding: 20px;
-  border: 1px solid red;
 }
 
 .para > h3 {
@@ -522,7 +523,6 @@
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
-  /* line-height: 32px; */
   color: #ffffff;
 }
 
@@ -533,4 +533,15 @@
   font-size: 16px;
   line-height: 36px;
   color: #ffffff;
+}
+
+.website-section-table {
+  position: absolute;
+  width: 1151px;
+  height: 826.74px;
+  left: 200px;
+  top: 550px;
+
+  background: #ffffff;
+  border-radius: 20.0125px;
 }
