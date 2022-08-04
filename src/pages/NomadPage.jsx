@@ -11,6 +11,7 @@ import researchLadyOne from "../images/nomad/sigmund-YUuSAJkS3U4-unsplash.png";
 import researchLadyTwo from "../images/nomad/green-chameleon-s9CC2SKySJM-unsplash.png";
 import researchManOne from "../images/nomad/leon-m2TU2gfqSeE-unsplash 1.png";
 import meritThomas from "../images/nomad/meritt-thomas-52fj00DaOPA-unsplash.png";
+import girlImageFullWidth from "../images/nomad/green-chameleon-s9CC2SKySJM-unsplash (1).png";
 
 function NomadPage() {
   return (
@@ -257,6 +258,10 @@ function NomadPage() {
             </div>
           </div>
         </div>
+      </div>
+
+      <div className="girl-image">
+        <img src={girlImageFullWidth} alt="" />
       </div>
     </>
   );

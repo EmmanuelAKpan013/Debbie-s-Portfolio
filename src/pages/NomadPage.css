@@ -363,7 +363,7 @@
 .persona {
   position: absolute;
   width: 1585px;
-  height: 750px;
+  height: 790px;
   left: 0px;
   top: 3923px;
   color: #ffffff;
@@ -455,4 +455,20 @@
   line-height: 28px;
   padding: 25px 15px;
   color: #000000;
+}
+
+.girl-image {
+  position: absolute;
+  width: 1585px;
+  height: 680px;
+  left: 0px;
+  top: 4712px;
+  /* border: 1px solid red; */
+  /* background: url("../images/nomad/green-chameleon-s9CC2SKySJM-unsplash\ \(1\).png"); */
+}
+
+.girl-image > img {
+  width: 1585px;
+  height: 600px;
+  object-fit: cover;
 }
