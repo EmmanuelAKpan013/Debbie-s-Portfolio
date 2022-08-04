@@ -12,6 +12,10 @@ import researchLadyTwo from "../images/nomad/green-chameleon-s9CC2SKySJM-unsplas
 import researchManOne from "../images/nomad/leon-m2TU2gfqSeE-unsplash 1.png";
 import meritThomas from "../images/nomad/meritt-thomas-52fj00DaOPA-unsplash.png";
 import girlImageFullWidth from "../images/nomad/green-chameleon-s9CC2SKySJM-unsplash (1).png";
+import wireframeImage1 from "../images/nomad/Group.png";
+import wireframeImage2 from "../images/nomad/Group2.png";
+import wireframeImage3 from "../images/nomad/Group3.png";
+import wireframeImage4 from "../images/nomad/Group4.png";
 
 function NomadPage() {
   return (
