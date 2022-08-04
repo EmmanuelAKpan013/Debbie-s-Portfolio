@@ -308,6 +308,58 @@ function NomadPage() {
             <button className="btn">Invoice management</button>
             <button className="btn">Dispute</button>
             <button className="btn">Invite users</button>
+            <div className="chart-text-header">Doing</div>
+            <div className="chart-text">
+              <ul>
+                <li>
+                  Looking for softwares that can help create and manage purchase
+                  orders
+                </li>
+                <li>Reading reviews on Nomad's Invoice management system</li>
+              </ul>
+            </div>
+            <div className="chart-text">
+              <ul>
+                <li>Creating an account on Nomad</li>
+                <li>Completing the To-do-list to set up their account</li>
+              </ul>
+            </div>
+            <div className="chart-text">
+              <ul>
+                <li>
+                  Clicking 'New Purchase Order' button to create a fresh
+                  purchase order
+                </li>
+                <li>
+                  Edit purchase order created by you or other invited users
+                </li>
+              </ul>
+            </div>
+            <div className="chart-text">
+              <ul>
+                <li>Review invoices sent by suppliers.</li>
+                <li>Accept or reject invoices with stated reasons.</li>
+              </ul>
+            </div>
+            <div className="chart-text">
+              <ul>
+                <li>Resolve disputes on purchase orders and invoices</li>
+              </ul>
+            </div>
+            <div className="chart-text">
+              <ul>
+                <li>
+                  Invite users in your company to collaborate on Purchase Orders
+                </li>
+              </ul>
+            </div>
+            <div className="chart-text"></div>
+            <div className="chart-text"></div>
+            <div className="chart-text"></div>
+            <div className="chart-text"></div>
+            <div className="chart-text"></div>
+            <div className="chart-text"></div>
+            <div className="chart-text"></div>
           </div>
         </div>
       </div>

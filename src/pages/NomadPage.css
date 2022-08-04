@@ -537,9 +537,9 @@
 
 .website-section-table {
   position: absolute;
-  width: 1151px;
+  width: 1350px;
   height: 826.74px;
-  left: 200px;
+  left: 120px;
   top: 550px;
   background: #ffffff;
   border-radius: 20px;
@@ -548,7 +548,7 @@
 .website-section-table > h2 {
   position: relative;
   top: 70px;
-  left: 50px;
+  left: 20px;
   font-family: "Avenir Next LT Pro";
   font-style: normal;
   width: 500px;
@@ -564,8 +564,30 @@
   border: 1px solid red;
   position: relative;
   top: 100px;
-  left: 50px;
-  width: 1000px;
+  left: 20px;
+  width: 1300px;
   display: grid;
   grid-template-columns: repeat(7, 1fr);
+  grid-gap: 2rem;
+}
+
+.chart > button {
+  border-radius: 10px;
+  border: none;
+  height: 27px;
+  width: auto;
+  color: #ffffff;
+  background: linear-gradient(rgba(255, 140, 123, 0.96), #ff4a90);
+}
+
+.chart > div {
+  border: 1px solid green;
+  font-family: "Avenir Next LT Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 20px;
+  padding: 10px;
+
+  color: rgba(16, 16, 16, 0.6);
 }
