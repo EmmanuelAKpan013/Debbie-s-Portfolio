@@ -271,10 +271,27 @@ function NomadPage() {
           <h2>Website</h2>
         </div>
         <div className="website-section-paragraph">
-          This webapp was proffered as a solution as in one dashboard, a user is
-          able to track his invoices and purchase orders, create a purchase
-          order and keep record of his or her credit and even have access to
-          payments before the supplier releases them- unlocking capital.
+          <div className="para-one">
+            <h3>WEB APPLICATION</h3>
+            <br />
+            <p>
+              This webapp was proffered as a solution as in one dashboard, a
+              user is able to track his invoices and purchase orders, create a
+              purchase order and keep record of his or her credit and even have
+              access to payments before the supplier releases them- unlocking
+              capital.
+            </p>
+          </div>
+          <div className="para-two">
+            <h3>CUSTOMER JOURNEY MAP</h3>
+            <br />
+            <p>
+              Theis customer journey map helps us understand the possible
+              behaviours of our users better and aid in building the site map
+              for the project.
+            </p>
+          </div>
+          <div className="para-two"></div>
         </div>
       </div>
     </>

@@ -482,6 +482,24 @@
   background: linear-gradient(90deg, #265de3 0%, #ab85ee 100%);
 }
 
+.website-section-paragraph {
+  position: relative;
+  right: 40px;
+  top: 90px;
+  width: 40%;
+  height: 400px;
+  border: 1px solid red;
+}
+
+.website-section-header {
+  position: relative;
+  left: 40px;
+  top: 90px;
+  width: 30%;
+  height: 400px;
+  border: 1px solid red;
+}
+
 .website-section-header > h4 {
   font-family: "Recoleta";
   font-style: normal;
