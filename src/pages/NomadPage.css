@@ -515,3 +515,21 @@
   font-size: 96px;
   color: #ffffff;
 }
+
+.para-one > h3 {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  /* line-height: 32px; */
+  color: #ffffff;
+}
+
+.para-one > p {
+  font-family: "Circular Std";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 36px;
+  color: #ffffff;
+}
