@@ -301,7 +301,7 @@ function NomadPage() {
         <div className="website-section-table">
           <h2>Customer Journey Map</h2>
           <div className="chart">
-            <button className="btn">Empty</button>
+            <button className="btn empty">Empty</button>
             <button className="btn">Research</button>
             <button className="btn">Onboarding</button>
             <button className="btn">Create Purchasing Order</button>

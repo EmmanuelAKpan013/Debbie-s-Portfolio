@@ -474,7 +474,7 @@
 .website-section {
   position: absolute;
   width: 1585px;
-  height: 1813px;
+  height: 1700px;
   left: 0px;
   top: 5312px;
   background: linear-gradient(90deg, #265de3 0%, #ab85ee 100%);
@@ -538,7 +538,7 @@
 .website-section-table {
   position: absolute;
   width: 1350px;
-  height: 1200px;
+  height: 1050px;
   left: 120px;
   top: 550px;
   background: #ffffff;
@@ -548,11 +548,11 @@
 .website-section-table > h2 {
   position: relative;
   top: 70px;
-  left: 20px;
+  left: 50px;
   font-family: "Avenir Next LT Pro";
   font-style: normal;
   width: 500px;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 
   /* font-weight: 700; */
   /* font-size: 23px; */
@@ -561,7 +561,7 @@
 }
 
 .chart {
-  border: 1px solid red;
+  /* border: 1px solid red; */
   position: relative;
   top: 120px;
   left: 20px;
@@ -580,16 +580,22 @@
   background: linear-gradient(rgba(255, 140, 123, 0.96), #ff4a90);
 }
 
+.chart .empty {
+  visibility: hidden;
+}
+
 .chart-text-header {
   font-family: "Avenir Next LT Pro";
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
+  margin-top: 15px;
+  margin-left: 40px;
   color: #000000;
 }
 
 .chart-text {
-  border: 1px solid green;
+  /* border: 1px solid green; */
   font-family: "Avenir Next LT Pro";
   font-style: normal;
   font-weight: 400;
