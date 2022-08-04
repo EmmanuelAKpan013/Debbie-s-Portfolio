@@ -298,7 +298,18 @@ function NomadPage() {
           </div>
         </div>
 
-        <div className="website-section-table"></div>
+        <div className="website-section-table">
+          <h2>Customer Journey Map</h2>
+          <div className="chart">
+            <button className="btn">Empty</button>
+            <button className="btn">Research</button>
+            <button className="btn">Onboarding</button>
+            <button className="btn">Create Purchasing Order</button>
+            <button className="btn">Invoice management</button>
+            <button className="btn">Dispute</button>
+            <button className="btn">Invite users</button>
+          </div>
+        </div>
       </div>
     </>
   );
