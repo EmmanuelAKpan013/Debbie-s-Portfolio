@@ -271,7 +271,7 @@ function NomadPage() {
           <h2>Website</h2>
         </div>
         <div className="website-section-paragraph">
-          <div className="para-one">
+          <div className="para">
             <h3>WEB APPLICATION</h3>
             <br />
             <p>
@@ -282,7 +282,9 @@ function NomadPage() {
               capital.
             </p>
           </div>
-          <div className="para-two">
+          <br />
+          <br />
+          <div className="para">
             <h3>CUSTOMER JOURNEY MAP</h3>
             <br />
             <p>
