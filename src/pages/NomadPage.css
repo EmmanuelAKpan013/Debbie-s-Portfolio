@@ -639,3 +639,13 @@
 .wireframeImage-4 {
   background: #ffffff;
 }
+
+.high-fidelity-wireframe {
+  position: relative;
+  width: 1585px;
+  height: 1000px;
+  top: 5680px;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    #040e43;
+  border: 1px solid red;
+}

@@ -552,6 +552,7 @@ function NomadPage() {
           </div>
         </div>
       </div>
+      <div className="high-fidelity-wireframe"></div>
     </>
   );
 }
