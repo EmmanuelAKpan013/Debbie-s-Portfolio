@@ -474,7 +474,7 @@
 .website-section {
   position: absolute;
   width: 1585px;
-  height: 1700px;
+  height: 1800px;
   left: 0px;
   top: 5312px;
   background: linear-gradient(90deg, #265de3 0%, #ab85ee 100%);
@@ -538,7 +538,7 @@
 .website-section-table {
   position: absolute;
   width: 1350px;
-  height: 1050px;
+  height: 1150px;
   left: 120px;
   top: 550px;
   background: #ffffff;
@@ -610,7 +610,7 @@
   position: relative;
   width: 1585px;
   height: 1339px;
-  top: 5680px;
+  top: 5780px;
 
   background: #051045;
 }
@@ -644,7 +644,7 @@
   position: relative;
   width: 1585px;
   height: 1000px;
-  top: 5680px;
+  top: 5780px;
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
     #040e43;
   border: 1px solid red;
