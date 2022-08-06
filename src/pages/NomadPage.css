@@ -643,7 +643,7 @@
 .high-fidelity-wireframe {
   position: relative;
   width: 1585px;
-  height: 1000px;
+  height: 1800px;
   top: 5780px;
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
     #040e43;
@@ -693,6 +693,20 @@
   top: 130px;
   display: grid;
   grid-template-columns: 1fr 1fr;
+  /* grid-auto-rows: minmax(500px, 1100px); */
+  grid-auto-rows: auto;
+
+  grid-gap: 2rem;
   width: 1250px;
   border: 1px solid red;
+  text-align: center;
+}
+
+.landing-page-container > div {
+  background-color: #cfcfcf;
+}
+
+.landing-page-container > div > img {
+  width: 600px;
+  object-fit: contain;
 }

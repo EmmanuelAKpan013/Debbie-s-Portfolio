@@ -565,12 +565,28 @@ function NomadPage() {
 
         <p className="landing-page">Landing page</p>
         <div className="landing-page-container">
-          <div className="landingPage-image-1"></div>
-          <div className="landingPage-image-2"></div>
-          <div className="landingPage-image-3"></div>
-          <div className="landingPage-image-4"></div>
-          <div className="landingPage-image-5"></div>
-          <div className="landingPage-image-6"></div>
+          <div className="landingPage-image-1">
+            <img src={landingPageImageOne} alt="" />
+          </div>
+          <div className="landingPage-image-2">
+            <img src={landingPageImageTwo} alt="" />
+            <br />
+            <br />
+            <br />
+            <img src={landingPageImageThree} alt="" />
+          </div>
+          <div className="landingPage-image-3">
+            <img src={landingPageImageThree} alt="" />
+          </div>
+          <div className="landingPage-image-4">
+            <img src={landingPageImageFour} alt="" />
+          </div>
+          <div className="landingPage-image-5">
+            <img src={landingPageImageFive} alt="" />
+          </div>
+          <div className="landingPage-image-6">
+            <img src={landingPageImageSix} alt="" />
+          </div>
         </div>
       </div>
     </>
