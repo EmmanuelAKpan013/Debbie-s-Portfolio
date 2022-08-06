@@ -18,8 +18,8 @@ import wireframeImage3 from "../images/nomad/Group3.png";
 import wireframeImage4 from "../images/nomad/Group4.png";
 import landingPageImageOne from "../images/nomad/Desktop - 32.png";
 import landingPageImageTwo from "../images/nomad/036.png";
-import landingPageImageThree from "../images/nomad/Group 9401.png";
-import landingPageImageFour from "../images/nomad/Group 9402.png";
+import landingPageImageThree from "../images/nomad/Welcome 8.png";
+import landingPageImageFour from "../images/nomad/046.png";
 import landingPageImageFive from "../images/nomad/047.png";
 import landingPageImageSix from "../images/nomad/Group 9404.png";
 function NomadPage() {
@@ -569,16 +569,24 @@ function NomadPage() {
             <img src={landingPageImageOne} alt="" />
           </div>
           <div className="landingPage-image-2">
-            <img src={landingPageImageTwo} alt="" />
-            <br />
-            <br />
-            <br />
-            <img src={landingPageImageThree} alt="" />
+            <div>
+              <img src={landingPageImageTwo} alt="" />
+            </div>
+            <div>
+              <p>Analytics Dashboard</p>
+              <br />
+              <img src={landingPageImageThree} alt="" />
+            </div>
+            <div>
+              <p>Invoice Management Empty State</p>
+              <br />
+              <img src={landingPageImageFour} alt="" />
+            </div>
           </div>
-          <div className="landingPage-image-3">
+          {/* <div className="landingPage-image-3">
             <img src={landingPageImageThree} alt="" />
-          </div>
-          <div className="landingPage-image-4">
+          </div> */}
+          {/* <div className="landingPage-image-4">
             <img src={landingPageImageFour} alt="" />
           </div>
           <div className="landingPage-image-5">
@@ -586,7 +594,7 @@ function NomadPage() {
           </div>
           <div className="landingPage-image-6">
             <img src={landingPageImageSix} alt="" />
-          </div>
+          </div> */}
         </div>
       </div>
     </>
