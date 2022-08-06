@@ -649,3 +649,28 @@
     #040e43;
   border: 1px solid red;
 }
+
+.high-fidelity-header {
+  position: relative;
+  left: 180px;
+  top: 50px;
+  font-family: "Argue DEMO";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 64px;
+  /* letter-spacing: 0.03em; */
+  color: #ffffff;
+}
+
+.high-fidelity-small-header {
+  position: relative;
+  left: 180px;
+  top: 60px;
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  /* line-height: 24px; */
+  color: #ffffff;
+}

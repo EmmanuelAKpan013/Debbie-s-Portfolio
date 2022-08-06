@@ -552,7 +552,12 @@ function NomadPage() {
           </div>
         </div>
       </div>
-      <div className="high-fidelity-wireframe"></div>
+      <div className="high-fidelity-wireframe">
+        <h2 className="high-fidelity-header">High Fidelity Wireframes</h2>
+        <p className="high-fidelity-small-header">
+          Here are some selected screens
+        </p>
+      </div>
     </>
   );
 }
