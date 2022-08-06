@@ -583,7 +583,6 @@ function NomadPage() {
             </div>
             <div>
               <p>Analytics Dashboard</p>
-              {/* <br /> */}
               <img src={landingPageImageThree} alt="" />
             </div>
             <div>
