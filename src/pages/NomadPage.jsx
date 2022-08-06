@@ -559,6 +559,14 @@ function NomadPage() {
         </p>
 
         <p className="landing-page">Landing page</p>
+        <div className="landing-page-container">
+          <div className="landingPage-image-1"></div>
+          <div className="landingPage-image-2"></div>
+          <div className="landingPage-image-3"></div>
+          <div className="landingPage-image-4"></div>
+          <div className="landingPage-image-5"></div>
+          <div className="landingPage-image-6"></div>
+        </div>
       </div>
     </>
   );
