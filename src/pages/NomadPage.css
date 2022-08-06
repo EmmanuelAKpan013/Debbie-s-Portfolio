@@ -693,8 +693,8 @@
   top: 130px;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  /* grid-auto-rows: minmax(500px, 1100px); */
-  grid-auto-rows: auto;
+  grid-auto-rows: minmax(200px, 1100px);
+  /* grid-auto-rows: auto; */
 
   grid-gap: 2rem;
   width: 1250px;
@@ -712,17 +712,24 @@
   object-fit: contain;
 }
 
+.landingPage-image-2 > div {
+  /* height: 500px; */
+  border: 1px solid green;
+}
+
 .landingPage-image-2 > div > img {
   width: 600px;
+  /* height: 900px; */
+  object-fit: contain;
 }
 
 .landingPage-image-2 {
   display: grid;
-  grid-row-gap: 2rem;
+  /* grid-row-gap: 0.5rem; */
 }
 
 .landingPage-image-2 > div > p {
-  margin: 15px 0 15px 10px;
+  /* margin: 15px 0 15px 10px; */
   font-family: "DM Sans";
   font-style: normal;
   font-weight: 400;

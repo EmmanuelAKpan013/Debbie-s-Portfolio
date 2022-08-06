@@ -22,6 +22,7 @@ import landingPageImageThree from "../images/nomad/Welcome 8.png";
 import landingPageImageFour from "../images/nomad/046.png";
 import landingPageImageFive from "../images/nomad/047.png";
 import landingPageImageSix from "../images/nomad/Group 9404.png";
+import landingPageImageSeven from "../images/nomad/Group 9402.png";
 function NomadPage() {
   return (
     <>
@@ -566,7 +567,15 @@ function NomadPage() {
         <p className="landing-page">Landing page</p>
         <div className="landing-page-container">
           <div className="landingPage-image-1">
-            <img src={landingPageImageOne} alt="" />
+            <div>
+              <img src={landingPageImageOne} alt="" />
+            </div>
+            <div>
+              <img src={landingPageImageSeven} alt="" />
+            </div>
+            <div>
+              <img src={landingPageImageSix} alt="" />
+            </div>
           </div>
           <div className="landingPage-image-2">
             <div>
@@ -574,7 +583,7 @@ function NomadPage() {
             </div>
             <div>
               <p>Analytics Dashboard</p>
-              <br />
+              {/* <br /> */}
               <img src={landingPageImageThree} alt="" />
             </div>
             <div>
@@ -588,18 +597,6 @@ function NomadPage() {
               <img src={landingPageImageFive} alt="" />
             </div>
           </div>
-          {/* <div className="landingPage-image-3">
-            <img src={landingPageImageThree} alt="" />
-          </div> */}
-          {/* <div className="landingPage-image-4">
-            <img src={landingPageImageFour} alt="" />
-          </div>
-          <div className="landingPage-image-5">
-            <img src={landingPageImageFive} alt="" />
-          </div>
-          <div className="landingPage-image-6">
-            <img src={landingPageImageSix} alt="" />
-          </div> */}
         </div>
       </div>
     </>
