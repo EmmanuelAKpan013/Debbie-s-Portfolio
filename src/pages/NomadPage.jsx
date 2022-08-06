@@ -16,7 +16,12 @@ import wireframeImage1 from "../images/nomad/Group.png";
 import wireframeImage2 from "../images/nomad/Group2.png";
 import wireframeImage3 from "../images/nomad/Group3.png";
 import wireframeImage4 from "../images/nomad/Group4.png";
-
+import landingPageImageOne from "../images/nomad/Desktop - 32.png";
+import landingPageImageTwo from "../images/nomad/036.png";
+import landingPageImageThree from "../images/nomad/Group 9401.png";
+import landingPageImageFour from "../images/nomad/Group 9402.png";
+import landingPageImageFive from "../images/nomad/047.png";
+import landingPageImageSix from "../images/nomad/Group 9404.png";
 function NomadPage() {
   return (
     <>
