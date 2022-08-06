@@ -582,6 +582,11 @@ function NomadPage() {
               <br />
               <img src={landingPageImageFour} alt="" />
             </div>
+            <div>
+              <p>Invoice Management System</p>
+              <br />
+              <img src={landingPageImageFive} alt="" />
+            </div>
           </div>
           {/* <div className="landingPage-image-3">
             <img src={landingPageImageThree} alt="" />
