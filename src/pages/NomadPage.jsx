@@ -557,6 +557,8 @@ function NomadPage() {
         <p className="high-fidelity-small-header">
           Here are some selected screens
         </p>
+
+        <p className="landing-page">Landing page</p>
       </div>
     </>
   );
