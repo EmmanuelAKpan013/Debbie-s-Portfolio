@@ -643,7 +643,7 @@
 .high-fidelity-wireframe {
   position: relative;
   width: 1585px;
-  height: 3000px;
+  height: 2900px;
   top: 5780px;
   left: 0px;
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
@@ -736,4 +736,12 @@
   text-align: start;
 
   color: #ffffff;
+}
+
+.key-takeaway-section {
+  position: absolute;
+  width: 1585px;
+  height: 590px;
+  top: 11350px;
+  background: linear-gradient(90deg, #265de3 0%, #ab85ee 100%);
 }

@@ -598,6 +598,7 @@ function NomadPage() {
           </div>
         </div>
       </div>
+      <div className="key-takeaway-section"></div>
     </>
   );
 }
