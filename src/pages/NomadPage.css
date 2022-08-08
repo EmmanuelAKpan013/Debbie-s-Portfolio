@@ -771,3 +771,8 @@
   line-height: 24px;
   color: #ffffff;
 }
+
+.nomad-pagination-container {
+  position: relative;
+  top: 180px;
+}
