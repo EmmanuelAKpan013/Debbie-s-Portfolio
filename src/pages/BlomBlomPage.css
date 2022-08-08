@@ -1,0 +1,14 @@
+.blomLandingImageAndLogo {
+  /* align-items: center; */
+  /* justify-content: center; */
+  position: relative;
+  width: 1595px;
+  height: 515px;
+  top: 116px;
+  /* border: 1px solid red; */
+}
+
+.blomFirstImage {
+  width: 1595px;
+  height: 530px;
+}
