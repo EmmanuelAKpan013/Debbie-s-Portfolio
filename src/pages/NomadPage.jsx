@@ -23,8 +23,8 @@ import landingPageImageFour from "../images/nomad/046.png";
 import landingPageImageFive from "../images/nomad/047.png";
 import landingPageImageSix from "../images/nomad/Group 9404.png";
 import landingPageImageSeven from "../images/nomad/Group 9402.png";
-import rightArrowIcon from "../assets/icons/rightArrowIcon.svg";
-import leftArrowIcon from "../assets/icons/leftArrowIcon.svg";
+// import rightArrowIcon from "../assets/icons/rightArrowIcon.svg";
+// import leftArrowIcon from "../assets/icons/leftArrowIcon.svg";
 import Pagination from "../components/Pagination";
 function NomadPage() {
   return (
