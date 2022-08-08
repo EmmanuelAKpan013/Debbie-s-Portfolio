@@ -6,7 +6,6 @@ import BlomBlomPage from "./pages/BlomBlomPage";
 import SaudipixPage from "./pages/SaudipixPage";
 import InvestNowPage from "./pages/InvestNowPage";
 import WaterTalkPage from "./pages/WaterTalkPage";
-// import "./assets/fonts.css";
 
 function App() {
   return (
