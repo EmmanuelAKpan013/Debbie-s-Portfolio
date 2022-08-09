@@ -250,3 +250,81 @@
   font-size: 16px;
   line-height: 24px;
 }
+
+.blom-insight-section {
+  display: flex;
+  justify-content: space-around;
+  position: absolute;
+  width: 1585px;
+  height: 909px;
+  left: 0px;
+  top: 3580px;
+  background: #0f3bab;
+}
+
+.blom-insight-header {
+  position: relative;
+  top: 80px;
+  left: 45px;
+  width: 30%;
+  height: 200px;
+  border: 1px solid red;
+}
+
+.blom-insight-header h4 {
+  color: #058d6b;
+  font-family: "Argue DEMO";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  /* line-height: 32px; */
+}
+
+.blom-insight-header h2 {
+  font-family: "Argue DEMO";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 84px;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}
+
+.blom-insight-paragraph {
+  width: 40%;
+  position: relative;
+  top: 80px;
+  border: 1px solid red;
+}
+
+.blom-insight-problem-and-solution {
+  position: relative;
+  top: 0px;
+  display: flex;
+  border: 1px solid green;
+}
+
+.blom-insight-line-container {
+  margin: 10px 20px 10px 0;
+}
+
+.blom-insight-line {
+  width: 32px;
+  border: 2px solid #febc2c;
+}
+
+.problem-and-solution-container > h4 {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  margin-bottom: 10px;
+  color: #ffffff;
+}
+
+.problem-and-solution-container > p {
+  font-family: "Circular Std";
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 16px;
+  line-height: 24px;
+}

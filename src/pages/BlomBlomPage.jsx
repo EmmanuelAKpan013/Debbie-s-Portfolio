@@ -171,6 +171,30 @@ function BlomBlomPage() {
           </div>
         </div>
       </div>
+      <div className="blom-insight-section">
+        <div className="blom-insight-header">
+          <h4>03</h4>
+          <br />
+          <h2>Insights</h2>
+        </div>
+        <div className="blom-insight-paragraph">
+          <div className="blom-insight-problem-and-solution">
+            <div className="blom-insight-line-container">
+              <hr className="blom-insight-line" />
+            </div>
+
+            <div className="problem-and-solution-container">
+              <h4>Main Problems</h4>
+
+              <p>
+                We carried out competitor analysis by breaking down their design
+                process for the features we wanted, experiencing their process
+                from end to end across a various range of competitors.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
     </>
   );
 }
