@@ -43,7 +43,7 @@ function BlomBlomPage() {
 
       <div className="blom-work-overview">
         <div className="work-overview-text">
-          <h4>02</h4>
+          <h4>01</h4>
           <br />
           <h2>
             Work <br />
