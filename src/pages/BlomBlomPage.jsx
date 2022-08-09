@@ -2,6 +2,7 @@ import Navbar from "../components/Navbar";
 import "./BlomBlomPage.css";
 import blomblomLogo from "../images/blomblom/Group 1421.png";
 import blomblomFirstImage from "../images/blomblom/Rectangle 469 (2).png";
+import dashboardImage from "../images/blomblom/Dashboard 1.png";
 
 function BlomBlomPage() {
   return (
@@ -36,7 +37,9 @@ function BlomBlomPage() {
           <p>2021 - Present</p>
         </div>
       </div>
-      <div className="freeEyeTest"></div>
+      <div className="freeEyeTest">
+        <img src={dashboardImage} alt="" />
+      </div>
     </>
   );
 }

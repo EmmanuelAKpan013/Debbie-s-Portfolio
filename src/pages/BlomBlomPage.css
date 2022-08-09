@@ -52,6 +52,9 @@
 }
 
 .freeEyeTest {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   position: absolute;
   width: 1585px;
   height: 854px;
