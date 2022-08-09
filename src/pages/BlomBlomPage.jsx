@@ -40,7 +40,35 @@ function BlomBlomPage() {
       <div className="freeEyeTest">
         <img src={dashboardImage} alt="" />
       </div>
-      <div className="work-overview-section"></div>
+
+      <div className="blom-work-overview">
+        <div className="work-overview-text">
+          <h4>02</h4>
+          <br />
+          <h2>
+            Work <br />
+            OVerview
+          </h2>
+        </div>
+        <div className="work-overview-text-para">
+          <div className="blom-work-overview-para-1">
+            <p>
+              The brand was created because the owners wanted to see eyewear
+              afresh – to do it better – and create a brand they would buy. They
+              also value honesty, relish buying from similar souls, from people
+              who want to stand for something. <br /> Therefore, working on this
+              project, I had to ensure that the customers experienced eyewear
+              afresh and understood that the brand valued honesty while
+              preserving the brand identity.
+            </p>
+          </div>
+          <br />
+          <div className="">
+            <h4>Solution</h4>
+            <p></p>
+          </div>
+        </div>
+      </div>
     </>
   );
 }
