@@ -115,41 +115,38 @@ function BlomBlomPage() {
             <h2>Research</h2>
           </div>
           <div className="blom-research-image">
-            <div className="blom-imgae-box blom-image-box-1">
-              <img src={blomResearchImageOne} alt="" />
+            <div>
+              <img src={blomResearchImageOne} alt="" className="blom-image-1" />
             </div>
-            <div className=" blom-image-box blom-image-box-2">
-              <img src={blomResearchImageThree} alt="" className="manImage" />
+            <div className="blom-image-box-2">
+              <img
+                src={blomResearchImageThree}
+                alt=""
+                className="blom-image-2"
+              />
             </div>
-            <div className="blom-imgae-box blom-image-box-3">
-              <img src={blomResearchImageTwo} alt="" />
+            <div>
+              <img src={blomResearchImageTwo} alt="" className="blom-image-3" />
             </div>
           </div>
         </div>
         <div className="blom-research-para">
-          <div className="blom-interview">
-            <hr className="blom-interview-line" />
-            <br />
-            <h4>Interviews</h4>
-            <br />
-            <p>
+          <div className="blom-competitorAnalysis">
+            <div className="blom-competitor-line-container">
+              <hr className="blom-competitor-line" />
+            </div>
+
+            <div className="analysis-container">
+              <h4>Competitor Analysis</h4>
+              <br />
+              {/* <p>
               We were able to determine the main challenges that these business
               owners were encountering in their activities through zoom calls
               and random interactions with MSME entrepreneurs.
-            </p>
+            </p> */}
+            </div>
           </div>
           <br />
-          <div className="blom-interview">
-            <hr className="blom-interview-line" />
-            <br />
-            <h4>Interviews</h4>
-            <br />
-            <p>
-              We were able to determine the main challenges that these business
-              owners were encountering in their activities through zoom calls
-              and random interactions with MSME entrepreneurs.
-            </p>
-          </div>
         </div>
       </div>
     </>
