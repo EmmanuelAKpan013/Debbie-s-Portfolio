@@ -40,6 +40,7 @@ function BlomBlomPage() {
       <div className="freeEyeTest">
         <img src={dashboardImage} alt="" />
       </div>
+      <div className="work-overview-section"></div>
     </>
   );
 }

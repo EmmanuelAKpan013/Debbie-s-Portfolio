@@ -61,3 +61,12 @@
   top: 825px;
   background: #0f3bab;
 }
+
+.work-overview-section {
+  position: absolute;
+  width: 1585px;
+  height: 1106px;
+  top: 1678px;
+  background: #052c8d;
+  box-shadow: 0px 0px 20px rgba(4, 51, 39, 0.41);
+}
