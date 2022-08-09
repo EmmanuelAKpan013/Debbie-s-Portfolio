@@ -268,7 +268,6 @@
   left: 45px;
   width: 30%;
   height: 200px;
-  border: 1px solid red;
 }
 
 .blom-insight-header h4 {
@@ -277,7 +276,6 @@
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
-  /* line-height: 32px; */
 }
 
 .blom-insight-header h2 {
@@ -291,16 +289,16 @@
 
 .blom-insight-paragraph {
   width: 40%;
+  height: 700px;
   position: relative;
-  top: 80px;
-  border: 1px solid red;
+  top: 120px;
+  right: 50px;
 }
 
 .blom-insight-problem-and-solution {
   position: relative;
   top: 0px;
   display: flex;
-  border: 1px solid green;
 }
 
 .blom-insight-line-container {
@@ -321,11 +319,12 @@
   color: #ffffff;
 }
 
-.problem-and-solution-container > p {
+.problem-and-solution-container > ol {
   font-family: "Circular Std";
   font-style: normal;
   font-weight: lighter;
   font-size: 16px;
   line-height: 24px;
   color: #ffffff;
+  padding: 27px;
 }
