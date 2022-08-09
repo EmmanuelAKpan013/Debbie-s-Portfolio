@@ -81,26 +81,24 @@ function BlomBlomPage() {
             <div className="improveWebsite-section">
               <hr className="horizontal-line" />
               <br />
-              <h4>Improve Website User Experience</h4>
+              <h4>Book an Appointment</h4>
               <br />
               <p>
-                With majority of traffic coming from mobile devices, it was
-                essential to improve the user experience across all devices -
-                making the website responsive. Improving website experience is
-                essential in retaining users and even improving revenue.
+                Creating an offline store after being solely an online business
+                since inception, the aim of this solution was to make the
+                offline process as seamless as possible.
               </p>
             </div>
 
             <div className="improveWebsite-section">
               <hr className="horizontal-line" />
               <br />
-              <h4>Improve Website User Experience</h4>
+              <h4>Eye Test Quiz</h4>
               <br />
               <p>
-                With majority of traffic coming from mobile devices, it was
-                essential to improve the user experience across all devices -
-                making the website responsive. Improving website experience is
-                essential in retaining users and even improving revenue.
+                This helps users/customers to make the right glasses choice for
+                them tailored towards their preferences for their try free
+                frames at home experiment
               </p>
             </div>
           </div>
