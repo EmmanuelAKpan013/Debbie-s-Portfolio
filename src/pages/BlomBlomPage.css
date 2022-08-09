@@ -50,3 +50,11 @@
   font-size: 15px;
   line-height: 24px;
 }
+
+.freeEyeTest {
+  position: absolute;
+  width: 1585px;
+  height: 854px;
+  top: 825px;
+  background: #0f3bab;
+}

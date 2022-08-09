@@ -36,6 +36,7 @@ function BlomBlomPage() {
           <p>2021 - Present</p>
         </div>
       </div>
+      <div className="freeEyeTest"></div>
     </>
   );
 }
