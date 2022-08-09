@@ -23,7 +23,7 @@ function Navbar() {
         <div className="resume-bar">Resume</div>
       </a>
 
-      <hr className="horizontal-line"></hr>
+      <hr className="navbar-horizontal-line"></hr>
     </div>
   );
 }

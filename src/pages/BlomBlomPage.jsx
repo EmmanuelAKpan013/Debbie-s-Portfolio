@@ -66,7 +66,7 @@ function BlomBlomPage() {
 
           <div className="blom-work-overview-para-2">
             <div className="improveWebsite-section">
-              <hr className="horizontal-line" />
+              <hr className="blom-horizontal-line" />
               <br />
               <h4>Improve Website User Experience</h4>
               <br />
@@ -79,7 +79,7 @@ function BlomBlomPage() {
             </div>
 
             <div className="improveWebsite-section">
-              <hr className="horizontal-line" />
+              <hr className="blom-horizontal-line" />
               <br />
               <h4>Book an Appointment</h4>
               <br />
@@ -91,7 +91,7 @@ function BlomBlomPage() {
             </div>
 
             <div className="improveWebsite-section">
-              <hr className="horizontal-line" />
+              <hr className="blom-horizontal-line" />
               <br />
               <h4>Eye Test Quiz</h4>
               <br />

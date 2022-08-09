@@ -78,9 +78,8 @@
   width: 30%;
   height: 400px;
   position: relative;
-  top: 60px;
+  top: 80px;
   left: 120px;
-  border: 1px solid red;
 }
 
 .work-overview-text h4 {
@@ -100,29 +99,36 @@
 
 .work-overview-text-para {
   position: relative;
-  top: 60px;
+  top: 80px;
   right: 120px;
   width: 45%;
-  height: auto;
+  height: 1000px;
   padding: 10px;
   font-family: "Circular Std";
   font-style: normal;
   line-height: 32px;
   color: #ffffff;
-  border: 1px solid red;
 }
 
 .blom-work-overview-para-2 {
   position: relative;
-  top: 100px;
-  border: 1px solid red;
+  top: 40px;
 }
 
 .improveWebsite-section {
-  border: 1px solid green;
+  margin: 40px 0;
 }
 
-.horizontal-line {
+.improveWebsite-section > h4 {
+  font-family: "Argue DEMO";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  color: #ffffff;
+}
+
+.blom-horizontal-line {
   position: relative;
   top: 10px;
   width: 42px;
