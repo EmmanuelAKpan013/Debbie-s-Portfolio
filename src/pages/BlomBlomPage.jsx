@@ -185,12 +185,13 @@ function BlomBlomPage() {
 
             <div className="problem-and-solution-container">
               <h4>Main Problems</h4>
-
-              <p>
-                We carried out competitor analysis by breaking down their design
-                process for the features we wanted, experiencing their process
-                from end to end across a various range of competitors.
-              </p>
+              <ol>
+                <li>
+                  The e-commerce website lacked the option to search for desired
+                  products making it so hectic for cutomers to search or filter
+                  the products at a go..
+                </li>
+              </ol>
             </div>
           </div>
         </div>
