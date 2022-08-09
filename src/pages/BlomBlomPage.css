@@ -104,9 +104,27 @@
   right: 120px;
   width: 45%;
   height: auto;
+  padding: 10px;
   font-family: "Circular Std";
   font-style: normal;
   line-height: 32px;
   color: #ffffff;
   border: 1px solid red;
+}
+
+.blom-work-overview-para-2 {
+  position: relative;
+  top: 100px;
+  border: 1px solid red;
+}
+
+.improveWebsite-section {
+  border: 1px solid green;
+}
+
+.horizontal-line {
+  position: relative;
+  top: 10px;
+  width: 42px;
+  border: 2px solid #febc2c;
 }

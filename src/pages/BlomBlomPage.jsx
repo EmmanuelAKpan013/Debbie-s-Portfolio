@@ -56,16 +56,53 @@ function BlomBlomPage() {
               The brand was created because the owners wanted to see eyewear
               afresh – to do it better – and create a brand they would buy. They
               also value honesty, relish buying from similar souls, from people
-              who want to stand for something. <br /> Therefore, working on this
-              project, I had to ensure that the customers experienced eyewear
-              afresh and understood that the brand valued honesty while
-              preserving the brand identity.
+              who want to stand for something. <br />
+              <br />
+              <br /> Therefore, working on this project, I had to ensure that
+              the customers experienced eyewear afresh and understood that the
+              brand valued honesty while preserving the brand identity.
             </p>
           </div>
-          <br />
-          <div className="">
-            <h4>Solution</h4>
-            <p></p>
+
+          <div className="blom-work-overview-para-2">
+            <div className="improveWebsite-section">
+              <hr className="horizontal-line" />
+              <br />
+              <h4>Improve Website User Experience</h4>
+              <br />
+              <p>
+                With majority of traffic coming from mobile devices, it was
+                essential to improve the user experience across all devices -
+                making the website responsive. Improving website experience is
+                essential in retaining users and even improving revenue.
+              </p>
+            </div>
+
+            <div className="improveWebsite-section">
+              <hr className="horizontal-line" />
+              <br />
+              <h4>Improve Website User Experience</h4>
+              <br />
+              <p>
+                With majority of traffic coming from mobile devices, it was
+                essential to improve the user experience across all devices -
+                making the website responsive. Improving website experience is
+                essential in retaining users and even improving revenue.
+              </p>
+            </div>
+
+            <div className="improveWebsite-section">
+              <hr className="horizontal-line" />
+              <br />
+              <h4>Improve Website User Experience</h4>
+              <br />
+              <p>
+                With majority of traffic coming from mobile devices, it was
+                essential to improve the user experience across all devices -
+                making the website responsive. Improving website experience is
+                essential in retaining users and even improving revenue.
+              </p>
+            </div>
           </div>
         </div>
       </div>
