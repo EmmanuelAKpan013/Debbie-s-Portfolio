@@ -104,6 +104,51 @@ function BlomBlomPage() {
           </div>
         </div>
       </div>
+      <div className="blom-research-section">
+        <div className="blom-research-header-and-image">
+          <div className="blom-research-header">
+            <h4>02</h4>
+            <br />
+            <h2>Research</h2>
+          </div>
+          <div className="blom-research-image">
+            <div className="blom-imgae-box blom-image-box-1">
+              <img src={""} alt="" />
+            </div>
+            <div className=" blom-image-box blom-image-box-2">
+              <img src={""} alt="" className="manImage" />
+            </div>
+            <div className="blom-imgae-box blom-image-box-3">
+              <img src={""} alt="" />
+            </div>
+          </div>
+        </div>
+        <div className="blom-research-para">
+          <div className="blom-interview">
+            <hr className="blom-interview-line" />
+            <br />
+            <h4>Interviews</h4>
+            <br />
+            <p>
+              We were able to determine the main challenges that these business
+              owners were encountering in their activities through zoom calls
+              and random interactions with MSME entrepreneurs.
+            </p>
+          </div>
+          <br />
+          <div className="blom-interview">
+            <hr className="blom-interview-line" />
+            <br />
+            <h4>Interviews</h4>
+            <br />
+            <p>
+              We were able to determine the main challenges that these business
+              owners were encountering in their activities through zoom calls
+              and random interactions with MSME entrepreneurs.
+            </p>
+          </div>
+        </div>
+      </div>
     </>
   );
 }

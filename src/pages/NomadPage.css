@@ -302,7 +302,7 @@
   color: #ffffff;
 }
 
-.imgae-box > img {
+.image-box > img {
   width: 100%;
   object-fit: contain;
 }
