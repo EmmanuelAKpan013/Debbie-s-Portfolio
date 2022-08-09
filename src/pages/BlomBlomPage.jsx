@@ -3,6 +3,9 @@ import "./BlomBlomPage.css";
 import blomblomLogo from "../images/blomblom/Group 1421.png";
 import blomblomFirstImage from "../images/blomblom/Rectangle 469 (2).png";
 import dashboardImage from "../images/blomblom/Dashboard 1.png";
+import blomResearchImageOne from "../images/blomblom/sigmund-YUuSAJkS3U4-unsplash (1).png";
+import blomResearchImageTwo from "../images/blomblom/green-chameleon-s9CC2SKySJM-unsplash (2).png";
+import blomResearchImageThree from "../images/blomblom/leon-m2TU2gfqSeE-unsplash 1 (1).png";
 
 function BlomBlomPage() {
   return (
@@ -113,13 +116,13 @@ function BlomBlomPage() {
           </div>
           <div className="blom-research-image">
             <div className="blom-imgae-box blom-image-box-1">
-              <img src={""} alt="" />
+              <img src={blomResearchImageOne} alt="" />
             </div>
             <div className=" blom-image-box blom-image-box-2">
-              <img src={""} alt="" className="manImage" />
+              <img src={blomResearchImageThree} alt="" className="manImage" />
             </div>
             <div className="blom-imgae-box blom-image-box-3">
-              <img src={""} alt="" />
+              <img src={blomResearchImageTwo} alt="" />
             </div>
           </div>
         </div>
