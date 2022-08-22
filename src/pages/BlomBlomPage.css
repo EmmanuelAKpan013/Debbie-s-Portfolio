@@ -328,3 +328,23 @@
   color: #ffffff;
   padding: 27px;
 }
+
+.blom-high-fidelity-wireframe {
+  position: absolute;
+  width: 1585px;
+  height: 9654px;
+  left: 0px;
+  top: 4487px;
+
+  background: #052c8d;
+}
+
+.blom-high-fidelity-wireframe > h2 {
+  font-family: "Argue DEMO";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 64px;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}

@@ -239,6 +239,9 @@ function BlomBlomPage() {
           </div>
         </div>
       </div>
+      <div className="blom-high-fidelity-wireframe">
+        <h2>High Fidelity Wireframes</h2>
+      </div>
     </>
   );
 }
