@@ -2,6 +2,7 @@ import "./HomePage.css";
 import designerImage from "../images/designerImage.png";
 import productDesignerText from "../images/product designer.png";
 import Navbar from "../components/Navbar";
+
 function HomePage() {
   return (
     <>
