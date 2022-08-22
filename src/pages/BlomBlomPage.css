@@ -340,11 +340,27 @@
 }
 
 .blom-high-fidelity-wireframe > h2 {
+  position: relative;
+  left: 90px;
+  top: 80px;
   font-family: "Argue DEMO";
   font-style: normal;
   font-weight: 400;
   font-size: 48px;
   line-height: 64px;
   letter-spacing: 0.03em;
+  color: #ffffff;
+}
+
+.blom-high-fidelity-wireframe > p {
+  position: relative;
+  left: 90px;
+  top: 90px;
+  width: 50%;
+  font-family: "Circular Std";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
   color: #ffffff;
 }
