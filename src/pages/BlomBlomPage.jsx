@@ -12,6 +12,7 @@ import artboardThree from "../images/blomblom/Artboard 3.png";
 import artboardFour from "../images/blomblom/Artboard 4.png";
 import vectorToLeft from "../images/blomblom/VectorToLeft.png";
 import vectorToBottom from "../images/blomblom/VectorToBottom.png";
+import vectorToBottomRight from "../images/blomblom/VectorToBottomRight.png";
 
 function BlomBlomPage() {
   return (
@@ -306,11 +307,11 @@ function BlomBlomPage() {
                 <br />
                 <br />
                 <div>
-                  Addition of the search field and a book appointment button on
-                  the navigation bar to aid customers eaily access these
-                  features
-                  <div className="blom-bottomArrowVector">
-                    <img src={vectorToBottom} alt="" />
+                  On clicking on a book appointment page, a landing page for the
+                  particular store comes up, giving a brief view/tour of the
+                  store, directions and the stores opeening hours
+                  <div className="blom-bottomRightArrowVector">
+                    <img src={vectorToBottomRight} alt="" />
                   </div>
                 </div>
                 <div>

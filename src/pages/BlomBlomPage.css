@@ -419,3 +419,9 @@
   font-size: 48px;
   color: #ffffff;
 }
+
+.blom-bottomRightArrowVector {
+  position: relative;
+  left: 20%;
+  top: -23px;
+}
