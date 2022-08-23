@@ -1,0 +1,48 @@
+.InvestNowLandingImageAndLogo {
+  position: relative;
+  width: 1595px;
+  height: 515px;
+  top: 116px;
+}
+
+.InvestNowFirstImage {
+  width: 1585px;
+  height: 515px;
+}
+
+.investNow-logo {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1585px;
+  height: 515px;
+  left: 0;
+  top: 0;
+  background: rgba(0, 0, 0, 0.7);
+  z-index: 1;
+}
+
+.investNow-roleContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  position: absolute;
+  width: 1585px;
+  height: 199px;
+  left: 0px;
+  top: 630px;
+  color: white;
+  background: #1c1b1b;
+  font-family: "DM Sans";
+  font-style: normal;
+}
+.investNow-roleContent > h3 {
+  font-weight: 700;
+}
+
+.investNow-roleContent > p {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+}
