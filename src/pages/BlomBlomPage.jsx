@@ -17,6 +17,8 @@ import artboardEight from "../images/blomblom/Artboard 8.png";
 import artboardNine from "../images/blomblom/Artboard 9.png";
 import artboardTen from "../images/blomblom/Artboard 10.png";
 import artboardEleven from "../images/blomblom/Artboard 11.png";
+import artboardTwelve from "../images/blomblom/Artboard 12.png";
+import artboardThirteen from "../images/blomblom/Artboard 13.png";
 import vectorToLeft from "../images/blomblom/VectorToLeft.png";
 import vectorToBottom from "../images/blomblom/VectorToBottom.png";
 import vectorToBottomRight from "../images/blomblom/VectorToBottomRight.png";
@@ -355,8 +357,18 @@ function BlomBlomPage() {
         </div>
 
         <div className="cancelAndResechedule-section">
-          <div></div>
-          <div></div>
+          <div>
+            <h3>Cancel Appointment</h3>
+            <div>
+              <img src={artboardTwelve} alt="" />
+            </div>
+          </div>
+          <div>
+            <h3>Reschedule</h3>
+            <div>
+              <img src={artboardThirteen} alt="" />
+            </div>
+          </div>
         </div>
       </div>
     </>

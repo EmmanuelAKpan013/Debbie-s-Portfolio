@@ -457,3 +457,12 @@
   align-items: center;
   border: 1px solid red;
 }
+
+.cancelAndResechedule-section > div > h3 {
+  font-family: "Argue DEMO";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  color: #ffffff;
+  margin-bottom: 30px;
+}
