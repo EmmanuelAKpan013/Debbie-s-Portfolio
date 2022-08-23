@@ -261,8 +261,60 @@ function BlomBlomPage() {
                 <img src={vectorToLeft} alt="" />
               </div>
               <div className="blom-leftArrowVector-Para">
-                Addition of the search field and a book appointment button on
-                the navigation bar to aid customers eaily access these features
+                <div>
+                  Addition of the search field and a book appointment button on
+                  the navigation bar to aid customers eaily access these
+                  features
+                </div>
+                <br />
+                <br />
+                <br />
+                <div>
+                  Addition of the search field and a book appointment button on
+                  the navigation bar to aid customers eaily access these
+                  features
+                  <div className="blom-bottomArrowVector">
+                    <img src={vectorToBottom} alt="" />
+                  </div>
+                </div>
+                <div>
+                  <img src={artboardTwo} alt="" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="blom-otherScreen">Other Screens</div>
+        <div className="blom-artboard-container">
+          <div className="blom-artboard-left">
+            <img src={artboardOne} alt="" />
+          </div>
+          <div className="blom-artboard-right">
+            <div className="blom-leftArrowVector">
+              <div>
+                <img src={vectorToLeft} alt="" />
+              </div>
+              <div className="blom-leftArrowVector-Para">
+                <div>
+                  Addition of the search field and a book appointment button on
+                  the navigation bar to aid customers eaily access these
+                  features
+                </div>
+                <br />
+                <br />
+                <br />
+                <div>
+                  Addition of the search field and a book appointment button on
+                  the navigation bar to aid customers eaily access these
+                  features
+                  <div className="blom-bottomArrowVector">
+                    <img src={vectorToBottom} alt="" />
+                  </div>
+                </div>
+                <div>
+                  <img src={artboardTwo} alt="" />
+                </div>
               </div>
             </div>
           </div>

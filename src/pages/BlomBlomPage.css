@@ -348,7 +348,7 @@
   font-weight: 400;
   font-size: 48px;
   line-height: 64px;
-  letter-spacing: 0.03em;
+  /* letter-spacing: 0.03em; */
   color: #ffffff;
 }
 
@@ -375,20 +375,20 @@
 
 .blom-artboard-left {
   position: relative;
-  left: 10px;
+  left: 40px;
   width: 40%;
   border: 1px solid green;
 }
 
 .blom-artboard-right {
-  width: 40%;
+  width: 50%;
   border: 1px solid black;
 }
 
 .blom-leftArrowVector {
   display: flex;
   justify-content: center;
-  column-gap: 2rem;
+  column-gap: 1rem;
   border: 1px solid red;
 }
 
@@ -399,5 +399,23 @@
   font-weight: 400;
   font-size: 15px;
   line-height: 24px;
+  color: #ffffff;
+}
+
+.blom-bottomArrowVector {
+  position: relative;
+  left: 54%;
+  top: -23px;
+}
+
+.blom-otherScreen {
+  position: relative;
+  top: 80px;
+  left: 75px;
+  margin-top: 120px;
+  font-family: "Argue DEMO";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
   color: #ffffff;
 }
