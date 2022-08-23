@@ -23,23 +23,23 @@ function InvestNowPage() {
         <div className="investNow-roleContent">
           <h3>ROLE</h3>
           <br />
-          <p>Research, UX Design</p>
-          <p> UI Design.</p>
+          <p>UI Design, UX Design</p>
         </div>
         <div className="investNow-roleContent">
           <h3>TASK</h3>
           <br />
           <p>
-            E- commerce Website Redesign, <br /> Digital solution for walk-in
-            store and seamsless <br /> end to end appointment scheduling.
+            Improve the userinterface and <br /> experience of the onboarding
+            process
           </p>
         </div>
         <div className="investNow-roleContent year">
           <h3>YEAR</h3>
           <br />
-          <p>2021 - Present</p>
+          <p>3 days</p>
         </div>
       </div>
+      <div className="investNow-layoutDesign"></div>
     </>
   );
 }

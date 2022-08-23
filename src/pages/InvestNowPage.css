@@ -46,3 +46,12 @@
   font-size: 15px;
   line-height: 24px;
 }
+
+.investNow-layoutDesign {
+  position: absolute;
+  width: 1585px;
+  height: 791px;
+  left: 0px;
+  top: 828px;
+  background: #e80000;
+}
