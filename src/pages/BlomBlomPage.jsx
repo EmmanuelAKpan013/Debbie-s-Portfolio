@@ -337,6 +337,21 @@ function BlomBlomPage() {
           <div>
             <img src={artboardSix} alt="" />
           </div>
+          <div>
+            <img src={artboardSeven} alt="" />
+          </div>
+          <div>
+            <img src={artboardEight} alt="" />
+          </div>
+          <div>
+            <img src={artboardNine} alt="" />
+          </div>
+          <div>
+            <img src={artboardTen} alt="" />
+          </div>
+          <div>
+            <img src={artboardEleven} alt="" />
+          </div>
         </div>
       </div>
     </>
