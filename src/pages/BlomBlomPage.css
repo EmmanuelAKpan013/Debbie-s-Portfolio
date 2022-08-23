@@ -447,3 +447,13 @@
   top: 250px;
   border: 1px solid red;
 }
+
+.cancelAndResechedule-section {
+  position: relative;
+  top: 350px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-items: center;
+  align-items: center;
+  border: 1px solid red;
+}

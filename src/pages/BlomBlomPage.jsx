@@ -353,6 +353,11 @@ function BlomBlomPage() {
             <img src={artboardEleven} alt="" />
           </div>
         </div>
+
+        <div className="cancelAndResechedule-section">
+          <div></div>
+          <div></div>
+        </div>
       </div>
     </>
   );
