@@ -6,6 +6,8 @@ import dashboardImage from "../images/blomblom/Dashboard 1.png";
 import blomResearchImageOne from "../images/blomblom/sigmund-YUuSAJkS3U4-unsplash (1).png";
 import blomResearchImageTwo from "../images/blomblom/green-chameleon-s9CC2SKySJM-unsplash (2).png";
 import blomResearchImageThree from "../images/blomblom/leon-m2TU2gfqSeE-unsplash 1 (1).png";
+import artboardOne from "../images/blomblom/Artboard 1.png";
+import artboardTwo from "../images/blomblom/Artboard 2.png";
 
 function BlomBlomPage() {
   return (
@@ -247,6 +249,12 @@ function BlomBlomPage() {
           product, the design leveraged on the existing design direction and
           style guide. Here are some selected screens
         </p>
+        <div className="artboard-container">
+          <div className="artboard-left">
+            {/* <img src={artboardOne} alt="" /> */}
+          </div>
+          <div className="artboard-right"></div>
+        </div>
       </div>
     </>
   );

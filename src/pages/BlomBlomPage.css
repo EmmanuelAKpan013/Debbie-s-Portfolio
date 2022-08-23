@@ -364,3 +364,10 @@
   line-height: 24px;
   color: #ffffff;
 }
+
+.artboard-container {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 140px;
+}
