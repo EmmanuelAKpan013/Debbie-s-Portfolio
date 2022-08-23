@@ -1,4 +1,5 @@
 import Navbar from "../components/Navbar";
+import Pagination from "../components/Pagination";
 import "./BlomBlomPage.css";
 import blomblomLogo from "../images/blomblom/Group 1421.png";
 import blomblomFirstImage from "../images/blomblom/Rectangle 469 (2).png";
@@ -370,6 +371,29 @@ function BlomBlomPage() {
             </div>
           </div>
         </div>
+
+        <div className="blom-key-takeaway-section">
+          <h2>Key Takeaways</h2>
+          <p>
+            - The importance of research cannot be overemphasized. I learnt
+            about the user behaviours of people in a different continent from a
+            different continent through research. I also learnt about how
+            artificial intelligence aids in the process of selection of glasses
+            which was really marvelling to me and i leanr how to design a bit
+            for AR. This is what many companies do and I was excited to take
+            part in it.
+            <br />
+            <br />- Although little iterations have been made on this design,
+            you can check it out here{" "}
+            <a href="https://bloobloom.com/" rel="noreferrer" target="_blank">
+              www.bloobloom.com
+            </a>
+          </p>
+        </div>
+
+        {/* <div className="blom-pagination-container">
+          <Pagination />
+        </div> */}
       </div>
     </>
   );
