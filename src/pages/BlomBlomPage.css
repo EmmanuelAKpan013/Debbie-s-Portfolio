@@ -372,3 +372,8 @@
   top: 140px;
   border: 1px solid red;
 }
+
+.leftArrowVector {
+  display: flex;
+  justify-content: center;
+}

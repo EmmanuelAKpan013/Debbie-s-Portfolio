@@ -255,7 +255,15 @@ function BlomBlomPage() {
           <div className="artboard-left">
             <img src={artboardOne} alt="" />
           </div>
-          <div className="artboard-right"></div>
+          <div className="artboard-right">
+            <div className="leftArrowVector">
+              <img src={vectorToLeft} alt="" />
+              <p>
+                Addition of the search field and a book appointment button on
+                the navigation bar to aid customers eaily access these features
+              </p>
+            </div>
+          </div>
         </div>
       </div>
     </>
