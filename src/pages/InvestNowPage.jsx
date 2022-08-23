@@ -64,7 +64,7 @@ function InvestNowPage() {
         <div>
           <img src={investNowSixthIphoneDesign} alt="" />
         </div>
-        <div>
+        <div className="investNow-layoutDesign-lastContainer">
           <h3>InvestNow</h3>
           <br />
           <p>

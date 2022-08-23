@@ -60,5 +60,25 @@
 
 .investNow-layoutDesign > div {
   text-align: center;
-  /* border: 1px solid blue; */
+  border: 1px solid blue;
+}
+
+.investNow-layoutDesign-lastContainer {
+  grid-column: 3/5;
+  padding: 40px;
+}
+
+.investNow-layoutDesign-lastContainer > h3 {
+  font-family: "Argue DEMO";
+  font-style: normal;
+  font-size: 24px;
+  color: #ffffff;
+}
+
+.investNow-layoutDesign-lastContainer > p {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-size: 16px;
+  line-height: 28px;
+  color: #ffffff;
 }
