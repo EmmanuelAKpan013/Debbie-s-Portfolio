@@ -8,6 +8,8 @@ import blomResearchImageTwo from "../images/blomblom/green-chameleon-s9CC2SKySJM
 import blomResearchImageThree from "../images/blomblom/leon-m2TU2gfqSeE-unsplash 1 (1).png";
 import artboardOne from "../images/blomblom/Artboard 1.png";
 import artboardTwo from "../images/blomblom/Artboard 2.png";
+import artboardThree from "../images/blomblom/Artboard 3.png";
+import artboardFour from "../images/blomblom/Artboard 4.png";
 import vectorToLeft from "../images/blomblom/VectorToLeft.png";
 import vectorToBottom from "../images/blomblom/VectorToBottom.png";
 
@@ -288,7 +290,7 @@ function BlomBlomPage() {
         <div className="blom-otherScreen">Other Screens</div>
         <div className="blom-artboard-container">
           <div className="blom-artboard-left">
-            <img src={artboardOne} alt="" />
+            <img src={artboardThree} alt="" />
           </div>
           <div className="blom-artboard-right">
             <div className="blom-leftArrowVector">
@@ -297,9 +299,8 @@ function BlomBlomPage() {
               </div>
               <div className="blom-leftArrowVector-Para">
                 <div>
-                  Addition of the search field and a book appointment button on
-                  the navigation bar to aid customers eaily access these
-                  features
+                  A landing page that explains what they eye tests , who they
+                  are for, how they can get it done and the value it offers
                 </div>
                 <br />
                 <br />
