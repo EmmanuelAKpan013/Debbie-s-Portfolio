@@ -315,12 +315,15 @@ function BlomBlomPage() {
                   </div>
                 </div>
                 <div>
-                  <img src={artboardTwo} alt="" />
+                  <img src={artboardFour} alt="" />
                 </div>
               </div>
             </div>
           </div>
         </div>
+
+        <div className="blom-appointment">Appointment Booking Screens</div>
+        <div className="appointment-section"></div>
       </div>
     </>
   );

@@ -425,3 +425,20 @@
   left: 20%;
   top: -23px;
 }
+
+.blom-appointment {
+  position: relative;
+  top: 200px;
+  left: 75px;
+  font-family: "Argue DEMO";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  color: #ffffff;
+}
+
+.appointment-section {
+  position: relative;
+  top: 250px;
+  border: 1px solid red;
+}
