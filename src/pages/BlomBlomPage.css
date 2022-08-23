@@ -1,12 +1,8 @@
 .blomLandingImageAndLogo {
-  /* display: flex;
-  align-items: center;
-  justify-content: center; */
   position: relative;
   width: 1595px;
   height: 515px;
   top: 116px;
-  /* border: 1px solid red; */
 }
 
 .blomFirstImage {
@@ -137,7 +133,6 @@
 
 .blom-research-section {
   display: flex;
-  /* align-items: center; */
   justify-content: space-around;
   position: absolute;
   width: 1585px;
@@ -348,7 +343,6 @@
   font-weight: 400;
   font-size: 48px;
   line-height: 64px;
-  /* letter-spacing: 0.03em; */
   color: #ffffff;
 }
 
@@ -370,26 +364,22 @@
   justify-content: space-around;
   position: relative;
   top: 140px;
-  border: 1px solid red;
 }
 
 .blom-artboard-left {
   position: relative;
   left: 40px;
   width: 40%;
-  border: 1px solid green;
 }
 
 .blom-artboard-right {
   width: 50%;
-  border: 1px solid black;
 }
 
 .blom-leftArrowVector {
   display: flex;
   justify-content: center;
   column-gap: 1rem;
-  border: 1px solid red;
 }
 
 .blom-leftArrowVector-Para {
@@ -445,7 +435,6 @@
   grid-row-gap: 2rem;
   position: relative;
   top: 250px;
-  border: 1px solid red;
 }
 
 .cancelAndResechedule-section {
@@ -455,7 +444,6 @@
   grid-template-columns: 1fr 1fr;
   justify-items: center;
   align-items: center;
-  border: 1px solid red;
 }
 
 .cancelAndResechedule-section > div > h3 {
