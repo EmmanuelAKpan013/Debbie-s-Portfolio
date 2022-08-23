@@ -8,6 +8,8 @@ import blomResearchImageTwo from "../images/blomblom/green-chameleon-s9CC2SKySJM
 import blomResearchImageThree from "../images/blomblom/leon-m2TU2gfqSeE-unsplash 1 (1).png";
 import artboardOne from "../images/blomblom/Artboard 1.png";
 import artboardTwo from "../images/blomblom/Artboard 2.png";
+import vectorToLeft from "../images/blomblom/VectorToLeft.png";
+import vectorToBottom from "../images/blomblom/VectorToBottom.png";
 
 function BlomBlomPage() {
   return (
@@ -251,7 +253,7 @@ function BlomBlomPage() {
         </p>
         <div className="artboard-container">
           <div className="artboard-left">
-            {/* <img src={artboardOne} alt="" /> */}
+            <img src={artboardOne} alt="" />
           </div>
           <div className="artboard-right"></div>
         </div>

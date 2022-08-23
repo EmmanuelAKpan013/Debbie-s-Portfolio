@@ -367,7 +367,8 @@
 
 .artboard-container {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   position: relative;
   top: 140px;
+  border: 1px solid red;
 }
