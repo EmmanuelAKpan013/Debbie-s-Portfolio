@@ -48,10 +48,17 @@
 }
 
 .investNow-layoutDesign {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
   position: absolute;
   width: 1585px;
   height: 791px;
   left: 0px;
   top: 828px;
   background: #e80000;
+}
+
+.investNow-layoutDesign > div {
+  text-align: center;
+  /* border: 1px solid blue; */
 }
