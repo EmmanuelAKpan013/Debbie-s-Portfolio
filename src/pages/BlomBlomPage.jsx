@@ -10,6 +10,13 @@ import artboardOne from "../images/blomblom/Artboard 1.png";
 import artboardTwo from "../images/blomblom/Artboard 2.png";
 import artboardThree from "../images/blomblom/Artboard 3.png";
 import artboardFour from "../images/blomblom/Artboard 4.png";
+import artboardFive from "../images/blomblom/Artboard 5.png";
+import artboardSix from "../images/blomblom/Artboard 6.png";
+import artboardSeven from "../images/blomblom/Artboard 7.png";
+import artboardEight from "../images/blomblom/Artboard 8.png";
+import artboardNine from "../images/blomblom/Artboard 9.png";
+import artboardTen from "../images/blomblom/Artboard 10.png";
+import artboardEleven from "../images/blomblom/Artboard 11.png";
 import vectorToLeft from "../images/blomblom/VectorToLeft.png";
 import vectorToBottom from "../images/blomblom/VectorToBottom.png";
 import vectorToBottomRight from "../images/blomblom/VectorToBottomRight.png";
@@ -323,7 +330,14 @@ function BlomBlomPage() {
         </div>
 
         <div className="blom-appointment">Appointment Booking Screens</div>
-        <div className="appointment-section"></div>
+        <div className="appointment-section">
+          <div>
+            <img src={artboardFive} alt="" />
+          </div>
+          <div>
+            <img src={artboardSix} alt="" />
+          </div>
+        </div>
       </div>
     </>
   );

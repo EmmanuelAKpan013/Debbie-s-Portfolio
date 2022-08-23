@@ -438,6 +438,8 @@
 }
 
 .appointment-section {
+  display: flex;
+  justify-content: space-around;
   position: relative;
   top: 250px;
   border: 1px solid red;
