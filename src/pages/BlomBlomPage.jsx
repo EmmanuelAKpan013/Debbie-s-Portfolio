@@ -391,9 +391,9 @@ function BlomBlomPage() {
           </p>
         </div>
 
-        {/* <div className="blom-pagination-container">
+        <div className="blom-pagination-container">
           <Pagination />
-        </div> */}
+        </div>
       </div>
     </>
   );
