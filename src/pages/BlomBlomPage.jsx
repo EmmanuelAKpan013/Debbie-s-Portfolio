@@ -251,17 +251,19 @@ function BlomBlomPage() {
           product, the design leveraged on the existing design direction and
           style guide. Here are some selected screens
         </p>
-        <div className="artboard-container">
-          <div className="artboard-left">
+        <div className="blom-artboard-container">
+          <div className="blom-artboard-left">
             <img src={artboardOne} alt="" />
           </div>
-          <div className="artboard-right">
-            <div className="leftArrowVector">
-              <img src={vectorToLeft} alt="" />
-              <p>
+          <div className="blom-artboard-right">
+            <div className="blom-leftArrowVector">
+              <div>
+                <img src={vectorToLeft} alt="" />
+              </div>
+              <div className="blom-leftArrowVector-Para">
                 Addition of the search field and a book appointment button on
                 the navigation bar to aid customers eaily access these features
-              </p>
+              </div>
             </div>
           </div>
         </div>

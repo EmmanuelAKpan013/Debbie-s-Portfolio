@@ -365,7 +365,7 @@
   color: #ffffff;
 }
 
-.artboard-container {
+.blom-artboard-container {
   display: flex;
   justify-content: space-around;
   position: relative;
@@ -373,7 +373,31 @@
   border: 1px solid red;
 }
 
-.leftArrowVector {
+.blom-artboard-left {
+  position: relative;
+  left: 10px;
+  width: 40%;
+  border: 1px solid green;
+}
+
+.blom-artboard-right {
+  width: 40%;
+  border: 1px solid black;
+}
+
+.blom-leftArrowVector {
   display: flex;
   justify-content: center;
+  column-gap: 2rem;
+  border: 1px solid red;
+}
+
+.blom-leftArrowVector-Para {
+  font-family: "Circular Std";
+  width: 70%;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  color: #ffffff;
 }
