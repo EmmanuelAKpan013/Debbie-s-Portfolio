@@ -279,19 +279,12 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-gap: 1rem;
-  /* align-items: center;
-  justify-content: center; */
 }
 
 .research-image > div {
   display: grid;
   grid-auto-rows: 230px;
   width: auto;
-  /* height: 200px; */
-  /* border: 1px solid green; */
-  /* align-items: center; */
-  /* justify-content: center; */
-  /* background: red; */
   color: #ffffff;
 }
 
