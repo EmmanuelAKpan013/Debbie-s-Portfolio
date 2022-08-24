@@ -316,7 +316,6 @@
 }
 
 .interview {
-  /* border: 1px solid red; */
   height: 180px;
   margin: 0px 0 10px 0;
 }
@@ -532,7 +531,6 @@
   font-family: "Avenir Next LT Pro";
   font-style: normal;
   width: 500px;
-  /* border: 1px solid red; */
 
   /* font-weight: 700; */
   /* font-size: 23px; */
