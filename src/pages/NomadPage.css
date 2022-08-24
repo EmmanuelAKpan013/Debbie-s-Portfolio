@@ -260,7 +260,6 @@
   width: 40%;
   position: relative;
   left: 45px;
-  /* object-fit: contain; */
 }
 
 .research-header h4 {
@@ -282,8 +281,6 @@
   grid-gap: 1rem;
   /* align-items: center;
   justify-content: center; */
-
-  /* border: 1px solid red; */
 }
 
 .research-image > div {
