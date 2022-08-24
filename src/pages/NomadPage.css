@@ -251,7 +251,6 @@
   height: 793px;
   left: 0px;
   top: 3130px;
-  /* border: 1px solid red; */
   background: linear-gradient(90deg, #265de3 0%, #ab85ee 100%);
 }
 
@@ -261,7 +260,6 @@
   width: 40%;
   position: relative;
   left: 45px;
-  /* border: 1px solid red; */
   /* object-fit: contain; */
 }
 
