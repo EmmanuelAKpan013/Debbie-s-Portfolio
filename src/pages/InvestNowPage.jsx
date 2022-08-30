@@ -58,12 +58,8 @@ function InvestNowPage() {
         <div>
           <img src={investNowFourthIphoneDesign} alt="" />
         </div>
-        <div>
-          <img src={investNowFifthIphoneDesign} alt="" />
-        </div>
-        <div>
-          <img src={investNowSixthIphoneDesign} alt="" />
-        </div>
+        <div>{/* <img src={investNowFifthIphoneDesign} alt="" /> */}</div>
+        <div>{/* <img src={investNowSixthIphoneDesign} alt="" /> */}</div>
         <div className="investNow-layoutDesign-lastContainer">
           <h3>InvestNow</h3>
           <br />
@@ -73,6 +69,45 @@ function InvestNowPage() {
             management over your investment and financial portfolio to maximize
             profits and cut down losses.
           </p>
+        </div>
+      </div>
+
+      <div className="invest-work-overview">
+        <div className="invest-work-over-text">
+          <h4>02</h4>
+          <br />
+          <h2>
+            Work <br />
+            OVerview
+          </h2>
+        </div>
+        <div className="invest-work-over-text-para">
+          <div className="fastr">
+            <p>
+              <strong>Fastr</strong> is an enhanced digital financial service
+              that streamline and standardise the invoicing process and aids in
+              accurate record keeping making it easy to track income and
+              possibly expenses, saving time, work, error and omissions,
+              alleviating frustrations in record keeping; Analytics tools record
+              business performance, quantifying the value of early payments in
+              money and time. Early payment on invoices means SMEs can access
+              money owed within 48 hours rather than waiting 30, 60 or even 180
+              days!{" "}
+            </p>
+          </div>
+          <br />
+          <div className="invest-solution">
+            <h4>Solution</h4>
+            <p>
+              The goal is for Nomad Bank to offer a digital solution that is SME
+              focused Digital Banking and Unlocks Working Capital for these
+              MSMEs. This involved me working on an invoicing tool, purchase
+              order tool, a pay early feature and a credit building system as
+              these aid businesses in tracking transactions, solves late payment
+              issues and build enough credit to apply for loans - unlocking
+              working capital.
+            </p>
+          </div>
         </div>
       </div>
     </>
