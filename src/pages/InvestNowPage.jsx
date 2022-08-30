@@ -89,6 +89,7 @@ function InvestNowPage() {
             </p>
           </div>
           <br />
+          <br />
           <div className="invest-solution">
             <h4>Solution</h4>
             <p>
