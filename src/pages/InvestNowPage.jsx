@@ -74,8 +74,6 @@ function InvestNowPage() {
 
       <div className="invest-work-overview">
         <div className="invest-work-over-text">
-          <h4>02</h4>
-          <br />
           <h2>
             Work <br />
             OVerview
@@ -92,7 +90,7 @@ function InvestNowPage() {
               business performance, quantifying the value of early payments in
               money and time. Early payment on invoices means SMEs can access
               money owed within 48 hours rather than waiting 30, 60 or even 180
-              days!{" "}
+              days!
             </p>
           </div>
           <br />

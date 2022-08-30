@@ -91,8 +91,8 @@
   width: 1585px;
   height: 750px;
   left: 0px;
-  top: 2385px;
-  background: #051045;
+  top: 1618px;
+  background: #1b1b1c;
   color: #ffffff;
 }
 
@@ -104,15 +104,9 @@
   left: 45px;
 }
 
-.invest-work-over-text h4 {
-  font-family: "Recoleta";
-  font-style: normal;
-  font-weight: 600;
-  font-size: 18px;
-  color: #febc2c;
-}
-
 .invest-work-over-text h2 {
+  position: relative;
+  top: 50px;
   font-family: "Argue DEMO";
   font-style: normal;
   font-weight: 400;
