@@ -80,17 +80,12 @@ function InvestNowPage() {
           </h2>
         </div>
         <div className="invest-work-over-text-para">
-          <div className="fastr">
+          <div className="invest-problem">
+            <h4>Problem</h4>
             <p>
-              <strong>Fastr</strong> is an enhanced digital financial service
-              that streamline and standardise the invoicing process and aids in
-              accurate record keeping making it easy to track income and
-              possibly expenses, saving time, work, error and omissions,
-              alleviating frustrations in record keeping; Analytics tools record
-              business performance, quantifying the value of early payments in
-              money and time. Early payment on invoices means SMEs can access
-              money owed within 48 hours rather than waiting 30, 60 or even 180
-              days!
+              A typical workflow in the healthcare industry is still paper based
+              and it requires a lot of time and manual tracking for enrolling
+              patients and medications.
             </p>
           </div>
           <br />
@@ -99,11 +94,7 @@ function InvestNowPage() {
             <p>
               The goal is for Nomad Bank to offer a digital solution that is SME
               focused Digital Banking and Unlocks Working Capital for these
-              MSMEs. This involved me working on an invoicing tool, purchase
-              order tool, a pay early feature and a credit building system as
-              these aid businesses in tracking transactions, solves late payment
-              issues and build enough credit to apply for loans - unlocking
-              working capital.
+              MSMEs.
             </p>
           </div>
         </div>

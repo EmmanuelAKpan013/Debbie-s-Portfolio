@@ -124,15 +124,10 @@
   color: #ffffff;
 }
 
-.fastr {
+.invest-problem {
   font-weight: 400;
   font-size: 18px;
   color: #cfcfcf;
-}
-
-.fastr > strong {
-  font-size: 20px;
-  color: #ffffff;
 }
 
 .invest-solution {
