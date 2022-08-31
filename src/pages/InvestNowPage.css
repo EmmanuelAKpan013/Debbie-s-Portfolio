@@ -218,3 +218,35 @@
   color: #e0e0e0;
   line-height: 24px;
 }
+
+.blom-competitorAnalysis {
+  position: relative;
+  top: 70px;
+  display: flex;
+}
+
+.blom-competitor-line-container {
+  margin: 10px 20px 10px 0;
+}
+
+.blom-competitor-line {
+  width: 32px;
+  border: 2px solid #052c8d;
+}
+
+.analysis-container > h4 {
+  font-family: "Argue DEMO";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  margin-bottom: 10px;
+  color: #000000;
+}
+
+.analysis-container > p {
+  font-family: "Circular Std";
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 16px;
+  line-height: 24px;
+}
