@@ -155,7 +155,7 @@
   height: 793px;
   left: 0px;
   top: 2180px;
-  background: linear-gradient(90deg, #265de3 0%, #ab85ee 100%);
+  background: #ffffff;
 }
 
 .invest-research-header-and-image {
@@ -218,22 +218,24 @@
   height: 400px;
   color: #e0e0e0;
   line-height: 24px;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 
 .invest-para-wrapper {
-  border: 1px solid blue;
+  margin-top: 35px;
+  /* border: 1px solid blue; */
   font-family: "DM Sans";
   font-style: normal;
   font-weight: 500;
   font-size: 15px;
   color: #1b1b1c;
+  line-height: 24px;
 }
 
 .invest-competitorAnalysis {
   position: relative;
   display: flex;
-  border: 1px solid green;
+  /* border: 1px solid green; */
   color: #000;
 }
 
@@ -243,7 +245,7 @@
 
 .invest-competitor-line {
   width: 32px;
-  border: 2px solid #052c8d;
+  border: 2px solid #f2f2f2;
 }
 
 .invest-analysis-container > h4 {
