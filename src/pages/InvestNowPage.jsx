@@ -123,14 +123,17 @@ function InvestNowPage() {
           </div>
         </div>
         <div className="invest-research-para">
-          <div className="blom-competitorAnalysis">
-            <div className="blom-competitor-line-container">
-              <hr className="blom-competitor-line" />
+          <div className="invest-para-wrapper">
+            <div className="invest-competitorAnalysis">
+              <div className="invest-competitor-line-container">
+                <hr className="invest-competitor-line" />
+              </div>
+
+              <div className="invest-analysis-container">
+                <h4>Interviews</h4>
+              </div>
             </div>
-
-            <div className="analysis-container">
-              <h4>Competitor Analysis</h4>
-
+            <div>
               <p>
                 We carried out competitor analysis by breaking down their design
                 process for the features we wanted, experiencing their process
@@ -138,13 +141,14 @@ function InvestNowPage() {
               </p>
             </div>
           </div>
+
           <br />
-          <div className="blom-competitorAnalysis">
-            <div className="blom-competitor-line-container">
-              <hr className="blom-competitor-line" />
+          {/* <div className="invest-competitorAnalysis">
+            <div className="invest-competitor-line-container">
+              <hr className="invest-competitor-line" />
             </div>
 
-            <div className="analysis-container">
+            <div className="invest-analysis-container">
               <h4>Competitor Analysis</h4>
 
               <p>
@@ -153,7 +157,7 @@ function InvestNowPage() {
                 from end to end across a various range of competitors.
               </p>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </>
