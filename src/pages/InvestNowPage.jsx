@@ -174,11 +174,12 @@ function InvestNowPage() {
             to experience ourselves. We wanted to get a sense of what the users
             had been dealing with so far, positive and negative feedback alike.
             We also conducted competitor analysis and learnt and ddocumented
-            about how these problems had been solved by other competitors. Now
-            the major goal in this project was to improve the user interface as
-            it was a bit quite old and to improve the user experience. because
-            it was an existing product, we leveraged on the brand guidelines
-            already provided.
+            about how these problems had been solved by other competitors.
+            <br /> <br />
+            Now the major goal in this project was to improve the user interface
+            as it was a bit quite old and to improve the user experience.
+            because it was an existing product, we leveraged on the brand
+            guidelines already provided.
           </p>
         </div>
       </div>
