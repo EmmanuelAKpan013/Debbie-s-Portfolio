@@ -218,29 +218,3 @@
   color: #e0e0e0;
   line-height: 24px;
 }
-
-.invest-interview {
-  height: 180px;
-  margin: 0px 0 10px 0;
-  color: #000;
-  /* display: flex; */
-}
-
-.invest-interview-line {
-  width: 32px;
-  border: 2px solid #f2f2f2;
-}
-
-.invest-interview > h4 {
-  font-family: "Recoleta";
-  font-style: normal;
-  font-weight: 600;
-  font-size: 24px;
-}
-
-.invest-interview > p {
-  font-family: "DM Sans";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 15px;
-}
