@@ -145,3 +145,100 @@
   color: #ffffff;
   margin-bottom: 5px;
 }
+
+.research {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  position: absolute;
+  width: 1585px;
+  height: 793px;
+  left: 0px;
+  top: 3130px;
+  background: linear-gradient(90deg, #265de3 0%, #ab85ee 100%);
+}
+
+.research-header-and-image {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  position: relative;
+  left: 45px;
+}
+
+.research-header h4 {
+  font-size: 18px;
+  color: #febc2c;
+}
+
+.research-header h2 {
+  font-family: "Argue DEMO";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 84px;
+}
+
+.research-image {
+  margin-top: 30px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 1rem;
+}
+
+.research-image > div {
+  display: grid;
+  grid-auto-rows: 230px;
+  width: auto;
+  color: #ffffff;
+}
+
+.image-box > img {
+  width: 100%;
+  object-fit: contain;
+}
+
+.image-box-1 {
+  align-self: end;
+}
+
+.image-box-2 {
+  grid-column: 2;
+  grid-row: 1/3;
+}
+
+.manImage {
+  height: 473px;
+}
+
+.research-para {
+  position: relative;
+  top: 80px;
+  right: 20px;
+  width: 30%;
+  color: #e0e0e0;
+  line-height: 24px;
+}
+
+.interview {
+  height: 180px;
+  margin: 0px 0 10px 0;
+}
+
+.interview-line {
+  width: 32px;
+  border: 2px solid #f2f2f2;
+}
+
+.interview > h4 {
+  font-family: "Recoleta";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+}
+
+.interview > p {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+}

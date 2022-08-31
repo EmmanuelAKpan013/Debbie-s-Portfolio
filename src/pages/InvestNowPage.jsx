@@ -8,6 +8,9 @@ import investNowThirdIphoneDesign from "../images/investnow/Group 9381.png";
 import investNowFourthIphoneDesign from "../images/investnow/Group 9380.png";
 import investNowFifthIphoneDesign from "../images/investnow/Group 9377.png";
 import investNowSixthIphoneDesign from "../images/investnow/Group 9374.png";
+import researchLadyOne from "../images/nomad/sigmund-YUuSAJkS3U4-unsplash.png";
+import researchLadyTwo from "../images/nomad/green-chameleon-s9CC2SKySJM-unsplash.png";
+import researchManOne from "../images/nomad/leon-m2TU2gfqSeE-unsplash 1.png";
 
 function InvestNowPage() {
   return (
@@ -96,6 +99,51 @@ function InvestNowPage() {
               The goal is for Nomad Bank to offer a digital solution that is SME
               focused Digital Banking and Unlocks Working Capital for these
               MSMEs.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div className="research">
+        <div className="research-header-and-image">
+          <div className="research-header">
+            <h4>03</h4>
+            <br />
+            <h2>Research</h2>
+          </div>
+          <div className="research-image">
+            <div className="image-box image-box-1">
+              <img src={researchLadyOne} alt="" />
+            </div>
+            <div className=" image-box image-box-2">
+              <img src={researchManOne} alt="" className="manImage" />
+            </div>
+            <div className="image-box image-box-3">
+              <img src={researchLadyTwo} alt="" />
+            </div>
+          </div>
+        </div>
+        <div className="research-para">
+          <div className="interview">
+            <hr className="interview-line" />
+            <br />
+            <h4>Interviews</h4>
+            <br />
+            <p>
+              We were able to determine the main challenges that these business
+              owners were encountering in their activities through zoom calls
+              and random interactions with MSME entrepreneurs.
+            </p>
+          </div>
+          <br />
+          <div className="interview">
+            <hr className="interview-line" />
+            <br />
+            <h4>Interviews</h4>
+            <br />
+            <p>
+              We were able to determine the main challenges that these business
+              owners were encountering in their activities through zoom calls
+              and random interactions with MSME entrepreneurs.
             </p>
           </div>
         </div>
