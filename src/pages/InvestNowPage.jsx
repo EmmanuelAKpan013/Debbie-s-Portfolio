@@ -123,29 +123,36 @@ function InvestNowPage() {
           </div>
         </div>
         <div className="invest-research-para">
-          <div className="invest-interview">
-            <hr className="invest-interview-line" />
-            <br />
-            <h4>Interviews</h4>
-            <br />
-            <p>
-              Our team identified the challenges that users were facing by
-              observing users use the product, conducting an in-depth analysis
-              of online reviews, and diving into the platform ourselves
-            </p>
+          <div className="blom-competitorAnalysis">
+            <div className="blom-competitor-line-container">
+              <hr className="blom-competitor-line" />
+            </div>
+
+            <div className="analysis-container">
+              <h4>Competitor Analysis</h4>
+
+              <p>
+                We carried out competitor analysis by breaking down their design
+                process for the features we wanted, experiencing their process
+                from end to end across a various range of competitors.
+              </p>
+            </div>
           </div>
           <br />
-          <div className="invest-interview">
-            <hr className="invest-interview-line" />
-            <br />
-            <h4>Interviews</h4>
-            <br />
-            <p>
-              Additionally, we conducted competitor analysis and discovered how
-              cumbersome our product, especially in comparison with other
-              similar products, was to use, thus the lack of interest on the
-              part of users to continue using it.
-            </p>
+          <div className="blom-competitorAnalysis">
+            <div className="blom-competitor-line-container">
+              <hr className="blom-competitor-line" />
+            </div>
+
+            <div className="analysis-container">
+              <h4>Competitor Analysis</h4>
+
+              <p>
+                We carried out competitor analysis by breaking down their design
+                process for the features we wanted, experiencing their process
+                from end to end across a various range of competitors.
+              </p>
+            </div>
           </div>
         </div>
       </div>

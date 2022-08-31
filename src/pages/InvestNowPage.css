@@ -223,6 +223,7 @@
   height: 180px;
   margin: 0px 0 10px 0;
   color: #000;
+  /* display: flex; */
 }
 
 .invest-interview-line {
