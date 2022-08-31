@@ -129,9 +129,9 @@ function InvestNowPage() {
             <h4>Interviews</h4>
             <br />
             <p>
-              We were able to determine the main challenges that these business
-              owners were encountering in their activities through zoom calls
-              and random interactions with MSME entrepreneurs.
+              Our team identified the challenges that users were facing by
+              observing users use the product, conducting an in-depth analysis
+              of online reviews, and diving into the platform ourselves
             </p>
           </div>
           <br />
@@ -141,9 +141,10 @@ function InvestNowPage() {
             <h4>Interviews</h4>
             <br />
             <p>
-              We were able to determine the main challenges that these business
-              owners were encountering in their activities through zoom calls
-              and random interactions with MSME entrepreneurs.
+              Additionally, we conducted competitor analysis and discovered how
+              cumbersome our product, especially in comparison with other
+              similar products, was to use, thus the lack of interest on the
+              part of users to continue using it.
             </p>
           </div>
         </div>
