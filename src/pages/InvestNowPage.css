@@ -261,7 +261,6 @@
   position: relative;
   width: 1585px;
   height: 656px;
-  left: 0px;
   top: 2455px;
   color: #fff;
   background: #1c1b1b;
@@ -283,4 +282,13 @@
   font-weight: 400;
   font-size: 18px;
   line-height: 36px;
+}
+
+.invest-redesign {
+  position: relative;
+  width: 1585px;
+  height: 3660px;
+  top: 2450px;
+
+  background: #ffffff;
 }

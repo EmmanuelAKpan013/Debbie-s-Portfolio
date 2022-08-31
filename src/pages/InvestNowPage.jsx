@@ -183,6 +183,7 @@ function InvestNowPage() {
           </p>
         </div>
       </div>
+      <div className="invest-redesign"></div>
     </>
   );
 }
