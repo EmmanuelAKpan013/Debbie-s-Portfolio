@@ -103,14 +103,14 @@ function InvestNowPage() {
           </div>
         </div>
       </div>
-      <div className="research">
-        <div className="research-header-and-image">
-          <div className="research-header">
+      <div className="invest-research">
+        <div className="invest-research-header-and-image">
+          <div className="invest-research-header">
             <h4>03</h4>
             <br />
             <h2>Research</h2>
           </div>
-          <div className="research-image">
+          <div className="invest-research-image">
             <div className="image-box image-box-1">
               <img src={researchLadyOne} alt="" />
             </div>
@@ -122,9 +122,9 @@ function InvestNowPage() {
             </div>
           </div>
         </div>
-        <div className="research-para">
-          <div className="interview">
-            <hr className="interview-line" />
+        <div className="invest-research-para">
+          <div className="invest-interview">
+            <hr className="invest-interview-line" />
             <br />
             <h4>Interviews</h4>
             <br />
@@ -135,8 +135,8 @@ function InvestNowPage() {
             </p>
           </div>
           <br />
-          <div className="interview">
-            <hr className="interview-line" />
+          <div className="invest-interview">
+            <hr className="invest-interview-line" />
             <br />
             <h4>Interviews</h4>
             <br />
