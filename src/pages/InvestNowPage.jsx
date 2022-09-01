@@ -83,7 +83,7 @@ function InvestNowPage() {
           </h2>
         </div>
         <div className="invest-work-over-text-para">
-          <div className="invest-problem">
+          <div className="invest-solution">
             <h4>Problem</h4>
             <p>
               A typical workflow in the healthcare industry is still paper based
@@ -183,7 +183,9 @@ function InvestNowPage() {
           </p>
         </div>
       </div>
-      <div className="invest-redesign"></div>
+      <div className="invest-redesign">
+        <p className="invest-redesign-header">Redesign</p>
+      </div>
     </>
   );
 }
