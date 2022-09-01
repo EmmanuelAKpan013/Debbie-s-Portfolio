@@ -333,7 +333,7 @@
 .invest-onboarding-design {
   position: relative;
   top: 130px;
-  height: 400px;
+  height: 1600px;
   border: 1px solid blue;
 }
 
@@ -357,4 +357,10 @@
 
 .invest-onboarding-old > p {
   margin-left: 50px;
+}
+
+.invest-onboarding-completeOldDesigns {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  border: 1px solid yellow;
 }

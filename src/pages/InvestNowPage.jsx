@@ -14,6 +14,21 @@ import researchManOne from "../images/investnow/leon-m2TU2gfqSeE-unsplash 1.png"
 import investOldDesign from "../images/investnow/oldInvestDesign.png";
 import investnewDesign from "../images/investnow/investRedesign.png";
 import investnewDesign2 from "../images/investnow/investRedesign2.png";
+import investOnboarding1 from "../images/investnow/investOnboarding1.png";
+import investOnboarding2 from "../images/investnow/investOnboarding2.png";
+import investOnboarding3 from "../images/investnow/investOnboarding3.png";
+import investOnboarding4 from "../images/investnow/investOnboarding4.png";
+import investOnboarding5 from "../images/investnow/investOnboarding5.png";
+import investOnboarding6 from "../images/investnow/investOnboarding6.png";
+import investOnboarding7 from "../images/investnow/investOnboarding7.png";
+import investOnboarding8 from "../images/investnow/investOnboarding8.png";
+import investOnboarding9 from "../images/investnow/investOnboarding9.png";
+import investOnboarding10 from "../images/investnow/investOnboarding10.png";
+import investOnboarding11 from "../images/investnow/investOnboarding11.png";
+import investOnboarding12 from "../images/investnow/investOnboarding12.png";
+import investOnboarding13 from "../images/investnow/investOnboarding13.png";
+import investOnboarding14 from "../images/investnow/investOnboarding14.png";
+import investOnboarding15 from "../images/investnow/investOnboarding15.png";
 
 function InvestNowPage() {
   return (
@@ -205,7 +220,53 @@ function InvestNowPage() {
           <p className="invest-onboarding-text">Onboarding Design</p>
           <div className="invest-onboarding-old">
             <p>Old Design</p>
-            <div className="invest-onboarding-completeOldDesigns"></div>
+            <div className="invest-onboarding-completeOldDesigns">
+              <div>
+                <img src={investOnboarding1} alt="" />
+              </div>
+              <div>
+                <img src={investOnboarding2} alt="" />
+              </div>
+              <div>
+                <img src={investOnboarding3} alt="" />
+              </div>
+              <div>
+                <img src={investOnboarding4} alt="" />
+              </div>
+              <div>
+                <img src={investOnboarding5} alt="" />
+              </div>
+              <div>
+                <img src={investOnboarding1} alt="" />
+              </div>
+              <div>
+                <img src={investOnboarding1} alt="" />
+              </div>
+              <div>
+                <img src={investOnboarding1} alt="" />
+              </div>
+              <div>
+                <img src={investOnboarding1} alt="" />
+              </div>
+              <div>
+                <img src={investOnboarding1} alt="" />
+              </div>
+              <div>
+                <img src={investOnboarding1} alt="" />
+              </div>
+              <div>
+                <img src={investOnboarding1} alt="" />
+              </div>
+              <div>
+                <img src={investOnboarding1} alt="" />
+              </div>
+              <div>
+                <img src={investOnboarding1} alt="" />
+              </div>
+              <div>
+                <img src={investOnboarding1} alt="" />
+              </div>
+            </div>
           </div>
         </div>
       </div>
