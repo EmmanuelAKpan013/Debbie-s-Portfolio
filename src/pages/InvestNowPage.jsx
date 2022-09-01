@@ -190,9 +190,9 @@ function InvestNowPage() {
         <p className="invest-redesign-header">Redesign</p>
         <p className="invest-redesign-splash">Splash Screens</p>
         <div className="invest-redesign-oldandnew">
-          <div>
-            <p>Old</p>
-            <img src="" alt="" />
+          <div className="invest-redesign-oldDesign">
+            <p>Old Design</p>
+            <img src={investOldDesign} alt="" />
           </div>
         </div>
       </div>

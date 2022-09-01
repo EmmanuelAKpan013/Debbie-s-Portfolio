@@ -311,12 +311,19 @@
   display: flex;
   justify-content: space-around;
   position: relative;
-  top: 120px;
-  height: 400px;
+  top: 130px;
   border: 1px solid red;
   font-family: "Circular Std";
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
   color: #000000;
+}
+
+.invest-redesign-oldandnew > div {
+  border: 1px solid blue;
+}
+
+.invest-redesign-oldDesign > p {
+  margin-left: 63px;
 }
