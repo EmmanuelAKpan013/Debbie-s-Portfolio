@@ -347,17 +347,19 @@
 
 .invest-onboarding-old {
   position: relative;
+  left: 160px;
   top: 30px;
   font-family: "Circular Std";
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
   border: 1px solid green;
+  width: 80%;
 }
 
-.invest-onboarding-old > p {
+/* .invest-onboarding-old > p {
   margin-left: 50px;
-}
+} */
 
 .invest-onboarding-completeOldDesigns {
   display: grid;

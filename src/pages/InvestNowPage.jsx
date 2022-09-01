@@ -237,34 +237,34 @@ function InvestNowPage() {
                 <img src={investOnboarding5} alt="" />
               </div>
               <div>
-                <img src={investOnboarding1} alt="" />
+                <img src={investOnboarding6} alt="" />
               </div>
               <div>
-                <img src={investOnboarding1} alt="" />
+                <img src={investOnboarding7} alt="" />
               </div>
               <div>
-                <img src={investOnboarding1} alt="" />
+                <img src={investOnboarding8} alt="" />
               </div>
               <div>
-                <img src={investOnboarding1} alt="" />
+                <img src={investOnboarding9} alt="" />
               </div>
               <div>
-                <img src={investOnboarding1} alt="" />
+                <img src={investOnboarding10} alt="" />
               </div>
               <div>
-                <img src={investOnboarding1} alt="" />
+                <img src={investOnboarding11} alt="" />
               </div>
               <div>
-                <img src={investOnboarding1} alt="" />
+                <img src={investOnboarding12} alt="" />
               </div>
               <div>
-                <img src={investOnboarding1} alt="" />
+                <img src={investOnboarding13} alt="" />
               </div>
               <div>
-                <img src={investOnboarding1} alt="" />
+                <img src={investOnboarding14} alt="" />
               </div>
               <div>
-                <img src={investOnboarding1} alt="" />
+                <img src={investOnboarding15} alt="" />
               </div>
             </div>
           </div>
