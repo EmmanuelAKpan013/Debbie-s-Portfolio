@@ -185,6 +185,7 @@ function InvestNowPage() {
       </div>
       <div className="invest-redesign">
         <p className="invest-redesign-header">Redesign</p>
+        <p className="invest-redesign-splash">Splash Screens</p>
       </div>
     </>
   );
