@@ -8,9 +8,12 @@ import investNowThirdIphoneDesign from "../images/investnow/Group 9381.png";
 import investNowFourthIphoneDesign from "../images/investnow/Group 9380.png";
 import investNowFifthIphoneDesign from "../images/investnow/Group 9377.png";
 import investNowSixthIphoneDesign from "../images/investnow/Group 9374.png";
-import researchLadyOne from "../images/nomad/sigmund-YUuSAJkS3U4-unsplash.png";
-import researchLadyTwo from "../images/nomad/green-chameleon-s9CC2SKySJM-unsplash.png";
-import researchManOne from "../images/nomad/leon-m2TU2gfqSeE-unsplash 1.png";
+import researchLadyOne from "../images/investnow/sigmund-YUuSAJkS3U4-unsplash.png";
+import researchLadyTwo from "../images/investnow/green-chameleon-s9CC2SKySJM-unsplash.png";
+import researchManOne from "../images/investnow/leon-m2TU2gfqSeE-unsplash 1.png";
+import investOldDesign from "../images/investnow/oldInvestDesign.png";
+import investnewDesign from "../images/investnow/investRedesign.png";
+import investnewDesign2 from "../images/investnow/investRedesign2.png";
 
 function InvestNowPage() {
   return (
@@ -186,6 +189,12 @@ function InvestNowPage() {
       <div className="invest-redesign">
         <p className="invest-redesign-header">Redesign</p>
         <p className="invest-redesign-splash">Splash Screens</p>
+        <div className="invest-redesign-oldandnew">
+          <div>
+            <p>Old</p>
+            <img src="" alt="" />
+          </div>
+        </div>
       </div>
     </>
   );
