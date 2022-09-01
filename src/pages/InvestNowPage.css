@@ -324,6 +324,12 @@
   border: 1px solid blue;
 }
 
-.invest-redesign-oldDesign > p {
-  margin-left: 63px;
+.invest-redesign-oldDesign > img {
+  position: relative;
+  top: -30px;
+  left: -60px;
+}
+
+.invest-redesign-newDesign > p {
+  margin-bottom: 30px;
 }

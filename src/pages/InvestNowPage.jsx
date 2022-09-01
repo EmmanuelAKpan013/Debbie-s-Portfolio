@@ -194,6 +194,12 @@ function InvestNowPage() {
             <p>Old Design</p>
             <img src={investOldDesign} alt="" />
           </div>
+
+          <div className="invest-redesign-newDesign">
+            <p>New Design</p>
+            <img src={investnewDesign} alt="" />
+            <img src={investnewDesign2} alt="" />
+          </div>
         </div>
       </div>
     </>
