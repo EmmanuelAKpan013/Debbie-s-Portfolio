@@ -201,6 +201,9 @@ function InvestNowPage() {
             <img src={investnewDesign2} alt="" />
           </div>
         </div>
+        <div className="invest-onboarding-design">
+          <p className="invest-onboarding-text">Onboarding Design</p>
+        </div>
       </div>
     </>
   );
