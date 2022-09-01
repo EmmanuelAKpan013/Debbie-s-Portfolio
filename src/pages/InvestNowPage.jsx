@@ -203,6 +203,10 @@ function InvestNowPage() {
         </div>
         <div className="invest-onboarding-design">
           <p className="invest-onboarding-text">Onboarding Design</p>
+          <div className="invest-onboarding-old">
+            <p>Old Design</p>
+            <div className="invest-onboarding-completeOldDesigns"></div>
+          </div>
         </div>
       </div>
     </>

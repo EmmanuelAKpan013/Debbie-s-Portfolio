@@ -333,6 +333,7 @@
 .invest-onboarding-design {
   position: relative;
   top: 130px;
+  height: 400px;
   border: 1px solid blue;
 }
 
@@ -342,4 +343,18 @@
   font-family: "Argue DEMO";
   font-size: 24px;
   color: #424242;
+}
+
+.invest-onboarding-old {
+  position: relative;
+  top: 30px;
+  font-family: "Circular Std";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  border: 1px solid green;
+}
+
+.invest-onboarding-old > p {
+  margin-left: 50px;
 }
