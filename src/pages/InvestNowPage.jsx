@@ -274,7 +274,7 @@ function InvestNowPage() {
           </div>
         </div>
 
-        <div className="invest-onboarding-design">
+        <div className="invest-onboarding-design-new">
           <p className="invest-onboarding-text">
             New Simplified Onboarding Process/Screens
           </p>
