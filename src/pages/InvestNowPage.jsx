@@ -269,6 +269,30 @@ function InvestNowPage() {
             </div>
           </div>
         </div>
+
+        <div className="invest-onboarding-design">
+          <p className="invest-onboarding-text">Onboarding Design</p>
+          <div className="invest-onboarding-old">
+            <p>Old Design</p>
+            <div className="invest-onboarding-completeOldDesigns">
+              <div>
+                <img src={investOnboarding1} alt="" />
+              </div>
+              <div>
+                <img src={investOnboarding2} alt="" />
+              </div>
+              <div>
+                <img src={investOnboarding3} alt="" />
+              </div>
+              <div>
+                <img src={investOnboarding4} alt="" />
+              </div>
+              <div>
+                <img src={investOnboarding5} alt="" />
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </>
   );
