@@ -399,3 +399,27 @@
   top: 2440px;
   background: #1c1b1b;
 }
+
+.invest-prototype-header {
+  position: relative;
+  top: 120px;
+  left: 150px;
+  font-family: "Argue DEMO";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 84px;
+  line-height: 54px;
+  color: #ffffff;
+}
+
+.invest-prototype-shortnote {
+  position: relative;
+  top: 120px;
+  left: 150px;
+  font-family: "Circular Std";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 54px;
+  color: #ffffff;
+}

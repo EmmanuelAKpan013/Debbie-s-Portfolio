@@ -303,7 +303,13 @@ function InvestNowPage() {
           </div>
         </div>
       </div>
-      <div className="invest-prototype"></div>
+      <div className="invest-prototype">
+        <p className="invest-prototype-header">Prototype</p>
+        <p className="invest-prototype-shortnote">
+          A lot more of the design is in the prototype which you can view here :
+          Prototype Link
+        </p>
+      </div>
     </>
   );
 }
