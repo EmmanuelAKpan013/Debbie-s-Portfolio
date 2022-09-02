@@ -29,6 +29,10 @@ import investOnboarding12 from "../images/investnow/investOnboarding12.png";
 import investOnboarding13 from "../images/investnow/investOnboarding13.png";
 import investOnboarding14 from "../images/investnow/investOnboarding14.png";
 import investOnboarding15 from "../images/investnow/investOnboarding15.png";
+import investOnboarding16 from "../images/investnow/investOnboarding16.png";
+import investOnboarding17 from "../images/investnow/investOnboarding17.png";
+import investOnboarding18 from "../images/investnow/investOnboarding18.png";
+import investOnboarding19 from "../images/investnow/investOnboarding19.png";
 
 function InvestNowPage() {
   return (
