@@ -306,8 +306,15 @@ function InvestNowPage() {
       <div className="invest-prototype">
         <p className="invest-prototype-header">Prototype</p>
         <p className="invest-prototype-shortnote">
-          A lot more of the design is in the prototype which you can view here :
-          Prototype Link
+          A lot more of the design is in the prototype which you can view here :{" "}
+          <a
+            className="invest-prototype-link"
+            href="https://www.figma.com/proto/bWKLc5McNt3x5NU2CCG61m/REDESIGN-OF-INVESTNOW-APP?page-id=10%3A220&node-id=36%3A1907&viewport=241%2C48%2C0.1&scaling=scale-down&starting-point-node-id=36%3A1883"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Prototype Link
+          </a>
         </p>
       </div>
     </>

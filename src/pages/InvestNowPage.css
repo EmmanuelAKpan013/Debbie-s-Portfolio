@@ -395,7 +395,7 @@
 .invest-prototype {
   position: relative;
   width: 1585px;
-  height: 471px;
+  height: 370px;
   top: 2440px;
   background: #1c1b1b;
 }
@@ -421,5 +421,9 @@
   font-weight: 400;
   font-size: 18px;
   line-height: 54px;
+  color: #ffffff;
+}
+
+.invest-prototype-link {
   color: #ffffff;
 }
