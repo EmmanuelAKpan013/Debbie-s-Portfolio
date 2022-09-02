@@ -281,7 +281,7 @@ function InvestNowPage() {
               have access to the portal, unlike the previous process that takes
               you through about 15 steps before you get access to the portal.
             </p>
-            <div className="invest-onboarding-completeOldDesigns">
+            <div className="invest-onboarding-completeNewDesigns">
               <div>
                 <img src={investOnboarding1} alt="" />
               </div>
