@@ -274,7 +274,7 @@ function InvestNowPage() {
           <p className="invest-onboarding-text">
             New Simplified Onboarding Process/Screens
           </p>
-          <div className="invest-onboarding-old">
+          <div className="invest-onboarding-new">
             <p>
               The onborading process was reduced to just 3 steps where all you
               needed was your fullname, email address and phone number and you

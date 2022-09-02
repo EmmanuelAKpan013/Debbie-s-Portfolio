@@ -357,12 +357,24 @@
   width: 80%;
 }
 
-/* .invest-onboarding-old > p {
-  margin-left: 50px;
-} */
-
 .invest-onboarding-completeOldDesigns {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   border: 1px solid yellow;
 }
+
+.invest-onboarding-new {
+  position: relative;
+  left: 160px;
+  top: 30px;
+  font-family: "Circular Std";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  border: 1px solid green;
+  width: 80%;
+}
+
+/* .invest-onboarding-old > p {
+  margin-left: 50px;
+} */
