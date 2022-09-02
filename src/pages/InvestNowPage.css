@@ -376,3 +376,10 @@
   line-height: 30px;
   color: #424242;
 }
+
+.invest-onboarding-completeOldDesigns {
+  margin-top: 10px;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  border: 1px solid yellow;
+}
