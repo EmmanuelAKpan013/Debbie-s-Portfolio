@@ -271,9 +271,16 @@ function InvestNowPage() {
         </div>
 
         <div className="invest-onboarding-design">
-          <p className="invest-onboarding-text">Onboarding Design</p>
+          <p className="invest-onboarding-text">
+            New Simplified Onboarding Process/Screens
+          </p>
           <div className="invest-onboarding-old">
-            <p>Old Design</p>
+            <p>
+              The onborading process was reduced to just 3 steps where all you
+              needed was your fullname, email address and phone number and you
+              have access to the portal, unlike the previous process that takes
+              you through about 15 steps before you get access to the portal.
+            </p>
             <div className="invest-onboarding-completeOldDesigns">
               <div>
                 <img src={investOnboarding1} alt="" />
