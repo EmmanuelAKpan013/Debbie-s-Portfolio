@@ -224,6 +224,7 @@ function InvestNowPage() {
           <p className="invest-onboarding-text">Onboarding Design</p>
           <div className="invest-onboarding-old">
             <p>Old Design</p>
+            <br />
             <div className="invest-onboarding-completeOldDesigns">
               <div>
                 <img src={investOnboarding1} alt="" />
@@ -302,6 +303,7 @@ function InvestNowPage() {
           </div>
         </div>
       </div>
+      <div className="invest-prototype"></div>
     </>
   );
 }

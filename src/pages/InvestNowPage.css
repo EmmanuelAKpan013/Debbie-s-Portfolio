@@ -281,7 +281,7 @@
 .invest-redesign {
   position: relative;
   width: 1585px;
-  height: 3500px;
+  height: 3250px;
   top: 2450px;
   background: #ffffff;
 }
@@ -317,7 +317,7 @@
   font-weight: 400;
   font-size: 18px;
   color: #000000;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 
 .invest-redesign-oldDesign > img {
@@ -334,7 +334,7 @@
   position: relative;
   top: 130px;
   height: 1600px;
-  border: 1px solid blue;
+  /* border: 1px solid blue; */
 }
 
 .invest-onboarding-text {
@@ -353,21 +353,22 @@
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
-  border: 1px solid green;
+  /* border: 1px solid green; */
   width: 80%;
 }
 
 .invest-onboarding-completeOldDesigns {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
-  border: 1px solid yellow;
+  grid-row-gap: 1.5rem;
+  /* border: 1px solid yellow; */
 }
 
 .invest-onboarding-design-new {
   position: relative;
   top: 130px;
   height: 800px;
-  border: 1px solid blue;
+  /* border: 1px solid blue; */
 }
 
 .invest-onboarding-new {
@@ -378,7 +379,7 @@
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
-  border: 1px solid green;
+  /* border: 1px solid green; */
   width: 80%;
   line-height: 30px;
   color: #424242;
@@ -388,5 +389,5 @@
   margin-top: 20px;
   display: grid;
   grid-template-columns: repeat(5, 1fr);
-  border: 1px solid yellow;
+  /* border: 1px solid yellow; */
 }
