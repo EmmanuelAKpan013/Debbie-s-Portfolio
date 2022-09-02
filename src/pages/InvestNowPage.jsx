@@ -287,19 +287,16 @@ function InvestNowPage() {
             </p>
             <div className="invest-onboarding-completeNewDesigns">
               <div>
-                <img src={investOnboarding1} alt="" />
+                <img src={investOnboarding16} alt="" />
               </div>
               <div>
-                <img src={investOnboarding2} alt="" />
+                <img src={investOnboarding17} alt="" />
               </div>
               <div>
-                <img src={investOnboarding3} alt="" />
+                <img src={investOnboarding18} alt="" />
               </div>
               <div>
-                <img src={investOnboarding4} alt="" />
-              </div>
-              <div>
-                <img src={investOnboarding5} alt="" />
+                <img src={investOnboarding19} alt="" />
               </div>
             </div>
           </div>
