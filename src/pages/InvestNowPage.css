@@ -281,7 +281,7 @@
 .invest-redesign {
   position: relative;
   width: 1585px;
-  height: 3250px;
+  height: 3170px;
   top: 2450px;
   background: #ffffff;
 }
@@ -367,7 +367,7 @@
 .invest-onboarding-design-new {
   position: relative;
   top: 130px;
-  height: 800px;
+  height: 720px;
   /* border: 1px solid blue; */
 }
 
@@ -390,4 +390,12 @@
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   /* border: 1px solid yellow; */
+}
+
+.invest-prototype {
+  position: relative;
+  width: 1585px;
+  height: 471px;
+  top: 2440px;
+  background: #1c1b1b;
 }
