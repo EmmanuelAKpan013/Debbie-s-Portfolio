@@ -431,7 +431,7 @@
 .invest-key-takeaway-section {
   position: absolute;
   width: 1585px;
-  height: 590px;
+  height: 500px;
   top: 7150px;
   background: #e80000;
 }
@@ -439,7 +439,7 @@
 .invest-key-takeaway-section > h2 {
   position: relative;
   top: 50px;
-  left: 180px;
+  left: 145px;
   font-family: "Recoleta";
   font-style: normal;
   font-weight: 400;
@@ -451,7 +451,7 @@
 .invest-key-takeaway-section > p {
   position: relative;
   top: 70px;
-  left: 180px;
+  left: 145px;
   width: 500px;
   font-family: "DM Sans";
   font-style: normal;
