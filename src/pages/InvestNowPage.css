@@ -436,7 +436,7 @@
   background: linear-gradient(90deg, #265de3 0%, #ab85ee 100%);
 }
 
-/* .invest-key-takeaway-section > h2 {
+.invest-key-takeaway-section > h2 {
   position: relative;
   top: 50px;
   left: 180px;
@@ -446,7 +446,7 @@
   font-size: 48px;
   letter-spacing: 0.03rem;
   color: #ffffff;
-} */
+}
 
 /* .invest-key-takeaway-section > p {
   position: relative;
