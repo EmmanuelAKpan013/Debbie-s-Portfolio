@@ -60,3 +60,68 @@
   position: relative;
   top: 120px;
 }
+
+.saudipix-background-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  position: absolute;
+  width: 1585px;
+  height: 762px;
+  left: 0px;
+  top: 1570px;
+  background: #ffffff;
+}
+
+.saudipix-background-large-text {
+  position: relative;
+  top: -65px;
+  left: 45px;
+  width: 30%;
+  height: 400px;
+}
+
+.saudipix-background-large-text h2 {
+  font-family: "Argue DEMO";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 84px;
+  color: rgba(75, 75, 75, 0.5);
+}
+
+.saudipix-background-paragraph {
+  position: relative;
+  right: 85px;
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  height: auto;
+  color: #000;
+  font-family: "Circular Std";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 32px;
+}
+
+.saudipix-para {
+  padding: 0px 20px 20px 20px;
+}
+
+.saudipix-para h4 {
+  margin: 10px 0;
+  font-family: "Recoleta";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  color: #febc2c;
+}
+
+.problemAndSolution {
+  font-family: "Argue DEMO";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  color: #49555d;
+  margin: 10px 0;
+}
