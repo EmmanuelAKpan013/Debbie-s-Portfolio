@@ -3,6 +3,8 @@ import Navbar from "../components/Navbar";
 import Pagination from "../components/Pagination";
 import saudipixLandingImage from "../images/saudipix/Hero Section.png";
 import saudipixLogo from "../images/saudipix/Saudipix.png";
+import miniIpad from "../images/saudipix/iPad Mini Body.png";
+import iphonedesign from "../images/saudipix/saudipixIphone.png";
 
 function SaudipixPage() {
   return (
