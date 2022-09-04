@@ -46,3 +46,17 @@
   font-size: 15px;
   line-height: 24px;
 }
+
+.saudipix-miniIpad-section {
+  text-align: center;
+  position: relative;
+  width: 1585px;
+  height: 750px;
+  top: 310px;
+  background: #1b2b35;
+}
+
+.saudipix-miniIpad-section > div {
+  position: relative;
+  top: 120px;
+}
