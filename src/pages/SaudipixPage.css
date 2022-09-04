@@ -1,0 +1,24 @@
+.saudipixLandingImageAndLogo {
+  position: relative;
+  width: 1595px;
+  height: 515px;
+  top: 116px;
+}
+
+.saudipixFirstImage {
+  width: 1585px;
+  height: 515px;
+}
+
+.saudipix-logo {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1585px;
+  height: 515px;
+  left: 0;
+  top: 0;
+  background: rgba(0, 0, 0, 0.7);
+  z-index: 1;
+}
