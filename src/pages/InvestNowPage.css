@@ -448,7 +448,7 @@
   color: #ffffff;
 }
 
-/* .invest-key-takeaway-section > p {
+.invest-key-takeaway-section > p {
   position: relative;
   top: 70px;
   left: 180px;
@@ -459,7 +459,7 @@
   font-size: 15px;
   line-height: 24px;
   color: #ffffff;
-} */
+}
 /* 
 .invest-pagination-container {
   position: relative;
