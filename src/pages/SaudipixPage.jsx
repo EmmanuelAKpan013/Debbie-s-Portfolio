@@ -69,7 +69,7 @@ function SaudipixPage() {
           </div>
           <div className="saudipix-para">
             <h4>02</h4>
-            <p className="problemAndSolution">Solution</p>
+            <p className="saudipix-problemAndSolution">Solution</p>
             <p>
               Provide a product that provides these pictures that are culturally
               aligned and acceptable exclusively for Arabians and by Arabians.
@@ -82,6 +82,7 @@ function SaudipixPage() {
       </div>
       <div className="saudipix-myroleandsolution">
         <div className="saudipix-myrole">
+          <h4>03</h4>
           <p>My Role & Approach to Solution</p>
         </div>
         <div className="saudipix-myrolepara">
