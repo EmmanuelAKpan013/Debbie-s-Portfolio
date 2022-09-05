@@ -5,6 +5,7 @@ import saudipixLandingImage from "../images/saudipix/Hero Section.png";
 import saudipixLogo from "../images/saudipix/Saudipix.png";
 import miniIpad from "../images/saudipix/iPad Mini Body.png";
 import iphonedesign from "../images/saudipix/saudipixIphone.png";
+import projectTime from "../images/saudipix/saudipixProjectTimeline.png";
 
 function SaudipixPage() {
   return (
@@ -101,6 +102,7 @@ function SaudipixPage() {
           </p>
         </div>
       </div>
+      <div className="saudipix-projectTimeline"></div>
     </>
   );
 }
