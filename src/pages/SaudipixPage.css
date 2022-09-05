@@ -125,3 +125,33 @@
   color: #49555d;
   margin: 10px 0;
 }
+
+.saudipix-myroleandsolution {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  width: 1585px;
+  height: 656px;
+  top: 2455px;
+  color: #fff;
+  background: #1c1b1b;
+}
+
+.saudipix-myrole {
+  width: 40%;
+  font-family: "Argue DEMO";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 76px;
+  line-height: 84px;
+}
+
+.saudipix-myrolepara {
+  width: 40%;
+  font-family: "Circular Std";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 36px;
+}
