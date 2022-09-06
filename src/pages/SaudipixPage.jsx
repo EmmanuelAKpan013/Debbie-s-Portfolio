@@ -122,43 +122,42 @@ function SaudipixPage() {
               like to go out with friends <br /> on long holidays.
             </p>
             <br />
-            {/* 
-            <div className="saudipix-card-container">
-              <div className="saudipix-card">
-                <h3>Core needs</h3>
-                <ul>
-                  <li>
-                    <p>
-                      Need to design fliers and posters that promote the
-                      company’s services.
-                    </p>
-                  </li>
-                  <li>
-                    <p>
-                      Needs to design these fliers that are relatable and aligns
-                      with the country’s culture.
-                    </p>
-                  </li>
-                </ul>
-              </div>
-              <div className="saudipix-card">
-                <h3>Frustrations</h3>
-                <ul>
-                  <li>
-                    <p>
-                      People not responding to information due to lack of
-                      relatability
-                    </p>
-                  </li>
-                  <li>
-                    <p>
-                      Not much choice and comparison of images available that
-                      are culturally inclined{" "}
-                    </p>
-                  </li>
-                </ul>
-              </div>
-            </div> */}
+          </div>
+        </div>
+        <div className="saudipix-card-container">
+          <div className="saudipix-card">
+            <h3>Core needs</h3>
+            <ul>
+              <li>
+                <p>
+                  Need to design fliers and posters that promote the company’s
+                  services.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Needs to design these fliers that are relatable and aligns
+                  with the country’s culture.
+                </p>
+              </li>
+            </ul>
+          </div>
+          <div className="saudipix-card">
+            <h3>Frustrations</h3>
+            <ul>
+              <li>
+                <p>
+                  People not responding to information due to lack of
+                  relatability
+                </p>
+              </li>
+              <li>
+                <p>
+                  Not much choice and comparison of images available that are
+                  culturally inclined{" "}
+                </p>
+              </li>
+            </ul>
           </div>
         </div>
       </div>

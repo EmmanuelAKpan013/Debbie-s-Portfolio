@@ -222,6 +222,9 @@
 
 .saudipix-card-container {
   display: flex;
+  position: relative;
+  top: 350px;
+  left: 180px;
 }
 
 .saudipix-card {
