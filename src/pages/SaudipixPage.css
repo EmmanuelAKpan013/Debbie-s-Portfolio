@@ -273,7 +273,7 @@
   color: #224c44;
 }
 
-/* .saudipix-high-fidelity-wireframe > p {
+.saudipix-high-fidelity-wireframe > p {
   position: relative;
   left: 90px;
   top: 90px;
@@ -283,5 +283,5 @@
   font-weight: 400;
   font-size: 15px;
   line-height: 24px;
-  color: #ffffff;
-} */
+  color: #224c44;
+}
