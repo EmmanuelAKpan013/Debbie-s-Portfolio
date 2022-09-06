@@ -261,7 +261,7 @@
   background: #ffffff;
 }
 
-/* .saudipix-high-fidelity-wireframe > h2 {
+.saudipix-high-fidelity-wireframe > h2 {
   position: relative;
   left: 90px;
   top: 80px;
@@ -270,8 +270,8 @@
   font-weight: 400;
   font-size: 48px;
   line-height: 64px;
-  color: #ffffff;
-} */
+  color: #224c44;
+}
 
 /* .saudipix-high-fidelity-wireframe > p {
   position: relative;
