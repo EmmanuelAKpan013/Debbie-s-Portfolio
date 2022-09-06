@@ -251,3 +251,37 @@
   padding: 25px 15px;
   color: #000000;
 }
+
+.saudipix-high-fidelity-wireframe {
+  position: relative;
+  width: 1585px;
+  height: 9746px;
+  left: 0px;
+  top: 1780px;
+  background: #ffffff;
+}
+
+/* .saudipix-high-fidelity-wireframe > h2 {
+  position: relative;
+  left: 90px;
+  top: 80px;
+  font-family: "Argue DEMO";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 64px;
+  color: #ffffff;
+} */
+
+/* .saudipix-high-fidelity-wireframe > p {
+  position: relative;
+  left: 90px;
+  top: 90px;
+  width: 50%;
+  font-family: "Circular Std";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  color: #ffffff;
+} */

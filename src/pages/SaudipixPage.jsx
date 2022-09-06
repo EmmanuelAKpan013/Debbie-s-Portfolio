@@ -161,6 +161,15 @@ function SaudipixPage() {
           </div>
         </div>
       </div>
+      <div className="saudipix-high-fidelity-wireframe">
+        <h2>High Fidelity Wireframes</h2>
+        <p>
+          After gathering insights from our research sessions, we used the
+          feebacks to make high fidelity designs. And since this was an existing
+          product, the design leveraged on the existing design direction and
+          style guide. Here are some selected screens
+        </p>
+      </div>
     </>
   );
 }
