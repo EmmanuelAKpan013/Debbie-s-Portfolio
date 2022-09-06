@@ -285,3 +285,14 @@
   line-height: 24px;
   color: #224c44;
 }
+
+.saudipix-layoutDesign {
+  position: relative;
+  top: 120px;
+  left: 143px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  height: 100px;
+  width: 80%;
+  background: #3a3d5b;
+}

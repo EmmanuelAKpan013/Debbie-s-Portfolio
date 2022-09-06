@@ -169,6 +169,7 @@ function SaudipixPage() {
           product, the design leveraged on the existing design direction and
           style guide. Here are some selected screens
         </p>
+        <div className="saudipix-layoutDesign"></div>
       </div>
     </>
   );
