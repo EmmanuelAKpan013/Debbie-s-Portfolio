@@ -122,7 +122,7 @@ function SaudipixPage() {
               like to go out with friends <br /> on long holidays.
             </p>
             <br />
-
+            {/* 
             <div className="saudipix-card-container">
               <div className="saudipix-card">
                 <h3>Core needs</h3>
@@ -158,7 +158,7 @@ function SaudipixPage() {
                   </li>
                 </ul>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
