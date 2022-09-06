@@ -5,7 +5,8 @@ import saudipixLandingImage from "../images/saudipix/Hero Section.png";
 import saudipixLogo from "../images/saudipix/Saudipix.png";
 import miniIpad from "../images/saudipix/iPad Mini Body.png";
 import iphonedesign from "../images/saudipix/saudipixIphone.png";
-import projectTime from "../images/saudipix/saudipixProjectTimeline.png";
+import projectTimeLine from "../images/saudipix/saudipixProjectTimeline.png";
+import personaProfilePic from "../images/saudipix/saudipixEllipse.png";
 
 function SaudipixPage() {
   return (
@@ -102,7 +103,65 @@ function SaudipixPage() {
           </p>
         </div>
       </div>
-      <div className="saudipix-projectTimeline"></div>
+      <div className="saudipix-projectTimeline">
+        <img src={projectTimeLine} alt="" />
+      </div>
+
+      <div className="saudipix-persona">
+        <div className="saudipix-persona-image-description">
+          <div className="saudipix-persona-image">
+            <img src={personaProfilePic} alt="" />
+          </div>
+          <div className="saudipix-persona-description">
+            <h2>Aairah Aakifah</h2>
+            <br />
+            <p className="saudipix-persona-first-paragraph">
+              A single 27 year old male who currently lives in Saudi Arabia. He
+              finished his master in design and arts and <br /> has just gotten
+              a job as a g. She is currentraphics designer. He is single and
+              like to go out with friends <br /> on long holidays.
+            </p>
+            <br />
+
+            <div className="saudipix-card-container">
+              <div className="saudipix-card">
+                <h3>Core needs</h3>
+                <ul>
+                  <li>
+                    <p>
+                      Need to design fliers and posters that promote the
+                      company’s services.
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      Needs to design these fliers that are relatable and aligns
+                      with the country’s culture.
+                    </p>
+                  </li>
+                </ul>
+              </div>
+              <div className="saudipix-card">
+                <h3>Frustrations</h3>
+                <ul>
+                  <li>
+                    <p>
+                      People not responding to information due to lack of
+                      relatability
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      Not much choice and comparison of images available that
+                      are culturally inclined{" "}
+                    </p>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </>
   );
 }
