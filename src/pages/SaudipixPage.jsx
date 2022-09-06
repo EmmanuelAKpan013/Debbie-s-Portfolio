@@ -7,6 +7,16 @@ import miniIpad from "../images/saudipix/iPad Mini Body.png";
 import iphonedesign from "../images/saudipix/saudipixIphone.png";
 import projectTimeLine from "../images/saudipix/saudipixProjectTimeline.png";
 import personaProfilePic from "../images/saudipix/saudipixEllipse.png";
+import homeImg from "../images/saudipix/Home.png";
+import accountSettingImg from "../images/saudipix/Account Settings.png";
+import contentImg from "../images/saudipix/Content Download.png";
+import invoicesImg from "../images/saudipix/Invoices.png";
+import leaderBoardImg from "../images/saudipix/Leader Board.png";
+import missionDetailsImg from "../images/saudipix/Mission Details Page.png";
+import missionPageImg from "../images/saudipix/Missions Page.png";
+import profileEditImg from "../images/saudipix/Profile Edit.png";
+import userLoginImg from "../images/saudipix/User Login.png";
+import userSignupImg from "../images/saudipix/User Sign Up.png";
 
 function SaudipixPage() {
   return (
@@ -169,7 +179,31 @@ function SaudipixPage() {
           product, the design leveraged on the existing design direction and
           style guide. Here are some selected screens
         </p>
-        <div className="saudipix-layoutDesign"></div>
+        <div className="saudipix-layoutDesign">
+          <div className="saudipix-left-layout">
+            <div>
+              <img src={homeImg} alt="" />
+            </div>
+            <div>
+              <p>Searching for an image</p>
+              <img src={contentImg} alt="" />
+            </div>
+          </div>
+
+          <div className="saudipix-signup-login">
+            <div>
+              <img src={userSignupImg} alt="" />
+            </div>
+            <div>
+              <p>Login Screen</p>
+              <img src={userLoginImg} alt="" />
+            </div>
+            <div>
+              <p>Mission Details</p>
+              <img src={missionDetailsImg} alt="" />
+            </div>
+          </div>
+        </div>
       </div>
     </>
   );

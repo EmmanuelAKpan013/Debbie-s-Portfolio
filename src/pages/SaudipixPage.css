@@ -292,7 +292,14 @@
   left: 143px;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  height: 100px;
   width: 80%;
   background: #3a3d5b;
+}
+
+.saudipix-layoutDesign > div {
+  border: 1px solid red;
+}
+
+.saudipix-signup-login > div {
+  margin-bottom: 40px;
 }
