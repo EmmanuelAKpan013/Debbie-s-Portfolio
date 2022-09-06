@@ -176,11 +176,10 @@
 .saudipix-persona {
   position: absolute;
   width: 1585px;
-  height: 790px;
+  height: 720px;
   left: 0px;
   top: 3670px;
   color: #3a3d5b;
-
   background: #3fd080;
 }
 
@@ -223,7 +222,7 @@
   display: flex;
   position: relative;
   top: 350px;
-  left: 180px;
+  left: 242px;
 }
 
 .saudipix-card {
