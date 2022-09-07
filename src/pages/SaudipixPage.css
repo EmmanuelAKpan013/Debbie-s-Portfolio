@@ -296,6 +296,10 @@
   /* background: #3a3d5b; */
 }
 
+.saudipix-bottom-layout {
+  grid-column: 1/3;
+}
+
 .saudipix-layout-shorttext {
   font-family: "Circular Std";
   font-style: normal;

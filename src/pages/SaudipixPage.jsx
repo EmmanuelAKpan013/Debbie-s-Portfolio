@@ -217,6 +217,9 @@ function SaudipixPage() {
               <img src={profileEditImg} alt="" />
             </div>
           </div>
+          <div className="saudipix-bottom-layout">
+            <img src={invoicesImg} alt="" />
+          </div>
         </div>
       </div>
     </>
