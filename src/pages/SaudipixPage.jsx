@@ -180,7 +180,7 @@ function SaudipixPage() {
           style guide. Here are some selected screens
         </p>
         <div className="saudipix-layoutDesign">
-          <div className="saudipix-left-layout">
+          <div className="saudipix-left-right-layout">
             <div>
               <img src={homeImg} alt="" />
             </div>
@@ -190,9 +190,15 @@ function SaudipixPage() {
               </p>
               <img src={contentImg} alt="" />
             </div>
+            <div>
+              <img src={missionPageImg} alt="" />
+            </div>
+            <div>
+              <img src={leaderBoardImg} alt="" />
+            </div>
           </div>
 
-          <div className="saudipix-signup-login">
+          <div className="saudipix-left-right-layout">
             <div>
               <img src={userSignupImg} alt="" />
             </div>
@@ -203,6 +209,9 @@ function SaudipixPage() {
             <div>
               <p className="saudipix-layout-shorttext">Mission Details</p>
               <img src={missionDetailsImg} alt="" />
+            </div>
+            <div>
+              <img src={accountSettingImg} alt="" />
             </div>
           </div>
         </div>
