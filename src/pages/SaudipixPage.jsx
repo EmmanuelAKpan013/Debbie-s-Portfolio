@@ -213,6 +213,9 @@ function SaudipixPage() {
             <div>
               <img src={accountSettingImg} alt="" />
             </div>
+            <div>
+              <img src={profileEditImg} alt="" />
+            </div>
           </div>
         </div>
       </div>
