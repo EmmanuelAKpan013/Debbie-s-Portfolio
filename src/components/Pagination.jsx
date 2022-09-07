@@ -5,10 +5,37 @@ import leftArrowIconDark from "../assets/icons/leftArrowIconDark.png";
 
 import "./Pagination.css";
 
-function Pagination() {
+function Pagination({ textColor }) {
+  // textColor = "black";
   return (
     <div className="pagination-container">
-      <div className="lightText">
+      {textColor === "black" ? (
+        <>
+          <div className="darkText">
+            <img src={leftArrowIconDark} alt="" />
+            <p>Previous Project</p>
+          </div>
+          <div className="darkText">
+            <p>Next Project</p>
+            <img src={rightArrowIconDark} alt="" />
+          </div>
+        </>
+      ) : (
+        <>
+          <div className="lightText">
+            <img src={leftArrowIcon} alt="" />
+            <p>Previous Project</p>
+          </div>
+          <div className="lightText">
+            <p>Next Project</p>
+            <img src={rightArrowIcon} alt="" />
+          </div>
+        </>
+      )}
+
+      {/* For dark text */}
+
+      {/* <div className="lightText">
         <img src={leftArrowIcon} alt="" />
         <p>Previous Project </p>
       </div>
@@ -16,7 +43,7 @@ function Pagination() {
       <div className="lightText">
         <p>Next Project</p>
         <img src={rightArrowIcon} alt="" />
-      </div>
+      </div> */}
     </div>
   );
 }

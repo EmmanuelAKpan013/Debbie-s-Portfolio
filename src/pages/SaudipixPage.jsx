@@ -17,9 +17,14 @@ import missionPageImg from "../images/saudipix/Missions Page.png";
 import profileEditImg from "../images/saudipix/Profile Edit.png";
 import userLoginImg from "../images/saudipix/User Login.png";
 import userSignupImg from "../images/saudipix/User Sign Up.png";
+// import { useState } from "react";
+// import { useNavigate } from "react-router-dom";
 
 function SaudipixPage() {
-  const paginationColor = "black";
+  // const { textColor, setTextColor } = useState("black");
+  // const navigate = useNavigate();
+  // navigate("/saudipix");
+  // const paginationColor = "black";
 
   return (
     <>
@@ -224,7 +229,7 @@ function SaudipixPage() {
           </div>
         </div>
         <div className="saudipix-pagination-container">
-          <Pagination style={paginationColor} />
+          <Pagination textColor={""} />
         </div>
       </div>
     </>
