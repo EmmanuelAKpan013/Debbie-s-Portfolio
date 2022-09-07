@@ -185,7 +185,9 @@ function SaudipixPage() {
               <img src={homeImg} alt="" />
             </div>
             <div>
-              <p>Searching for an image</p>
+              <p className="saudipix-layout-shorttext">
+                Searching for an image
+              </p>
               <img src={contentImg} alt="" />
             </div>
           </div>
@@ -195,11 +197,11 @@ function SaudipixPage() {
               <img src={userSignupImg} alt="" />
             </div>
             <div>
-              <p>Login Screen</p>
+              <p className="saudipix-layout-shorttext">Login Screen</p>
               <img src={userLoginImg} alt="" />
             </div>
             <div>
-              <p>Mission Details</p>
+              <p className="saudipix-layout-shorttext">Mission Details</p>
               <img src={missionDetailsImg} alt="" />
             </div>
           </div>
