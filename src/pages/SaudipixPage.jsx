@@ -19,6 +19,8 @@ import userLoginImg from "../images/saudipix/User Login.png";
 import userSignupImg from "../images/saudipix/User Sign Up.png";
 
 function SaudipixPage() {
+  const paginationColor = "black";
+
   return (
     <>
       <Navbar />
@@ -220,6 +222,9 @@ function SaudipixPage() {
           <div className="saudipix-bottom-layout">
             <img src={invoicesImg} alt="" />
           </div>
+        </div>
+        <div className="saudipix-pagination-container">
+          <Pagination style={paginationColor} />
         </div>
       </div>
     </>

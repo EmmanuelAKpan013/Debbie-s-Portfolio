@@ -312,3 +312,10 @@
 .saudipix-left-right-layout > div {
   margin-bottom: 40px;
 }
+
+.saudipix-pagination-container {
+  position: relative;
+  top: 200px;
+  /* background: #000; */
+  color: #000;
+}
