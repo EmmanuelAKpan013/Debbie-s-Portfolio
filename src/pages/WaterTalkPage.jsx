@@ -34,6 +34,17 @@ function WaterTalkPage() {
           <p>1 Week</p>
         </div>
       </div>
+      <div className="water-background-section">
+        <div className="water-bg-text">Background</div>
+        <div className="water-bg-line-and-aboutWaterTalk">
+          <div className="water-bg-line-container">
+            <hr className="blom-insight-line" />
+          </div>
+          <div className="water-bg-aboutWaterTalk">
+            <h4>Main Problems</h4>
+          </div>
+        </div>
+      </div>
     </>
   );
 }

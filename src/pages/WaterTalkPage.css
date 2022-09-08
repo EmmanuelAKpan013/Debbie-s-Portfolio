@@ -45,3 +45,12 @@
   font-size: 15px;
   line-height: 24px;
 }
+
+.water-background-section {
+  position: relative;
+  width: 1585px;
+  height: 498px;
+  top: 400px;
+
+  background: #005e8a;
+}
