@@ -49,7 +49,7 @@
 .water-background-section {
   position: relative;
   width: 1585px;
-  height: 498px;
+  height: 400px;
   top: 310px;
   background: #005e8a;
   display: flex;
@@ -58,26 +58,28 @@
 
 .water-bg-text {
   position: relative;
-  top: 50px;
-  left: 50px;
-  width: 30%;
+  top: 130px;
+  left: 70px;
+  width: 35%;
+  height: 200px;
   font-family: "Argue DEMO";
   font-style: normal;
   font-weight: 400;
   font-size: 84px;
-  /* line-height: 90px; */
   color: #ffffff;
+}
 
-  border: 1px solid rgba(0, 0, 0, 0.9);
+.water-bg-para {
+  width: 40%;
+  height: 200px;
+  position: relative;
+  top: 130px;
+  left: 10px;
 }
 
 .water-bg-line-and-aboutWaterTalk {
-  position: relative;
-  top: 50px;
-  left: 50px;
-  border: 1px solid red;
-  width: 40%;
   display: flex;
+  margin-bottom: 20px;
 }
 
 .water-bg-line-container {
@@ -86,5 +88,22 @@
 
 .water-insight-line {
   width: 32px;
-  border: 2px solid #052c8d;
+  border: 2px solid #f2f2f2;
+}
+
+.water-bg-aboutWaterTalk {
+  font-family: "CaslonGraD";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  color: #ffffff;
+}
+
+.water-bg-paragraph {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #ffffff;
 }

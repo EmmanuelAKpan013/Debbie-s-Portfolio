@@ -38,12 +38,24 @@ function WaterTalkPage() {
         <div className="water-bg-text">
           <p>Background</p>
         </div>
-        <div className="water-bg-line-and-aboutWaterTalk">
-          <div className="water-bg-line-container">
-            <hr className="water-insight-line" />
+
+        <div className="water-bg-para">
+          <div className="water-bg-line-and-aboutWaterTalk">
+            <div className="water-bg-line-container">
+              <hr className="water-insight-line" />
+            </div>
+            <div className="water-bg-aboutWaterTalk">
+              <h4>About WaterTalk</h4>
+            </div>
           </div>
-          <div className="water-bg-aboutWaterTalk">
-            <h4>Main Problems</h4>
+          <div className="water-bg-paragraph">
+            <p>
+              Water is an application that aims to provide a quick and easy way
+              to scoute for vendors, reach out to them, and communicate with
+              them. The water application allows users to contact their favorite
+              vendors from various locations, all from the comfort of their own
+              home or office.
+            </p>
           </div>
         </div>
       </div>
