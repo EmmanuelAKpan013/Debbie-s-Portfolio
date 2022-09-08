@@ -92,7 +92,7 @@
 }
 
 .water-bg-aboutWaterTalk {
-  font-family: "CaslonGraD";
+  font-family: "Argue DEMO";
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -106,4 +106,23 @@
   font-size: 16px;
   line-height: 28px;
   color: #ffffff;
+}
+
+.water-wireframe {
+  position: relative;
+  width: 1585px;
+  height: 4160px;
+  top: 310px;
+  background: #1c1b1b;
+  font-family: "Recoleta";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  color: #ffffff;
+}
+
+.water-wireframe > p {
+  position: relative;
+  top: 60px;
+  left: 160px;
 }

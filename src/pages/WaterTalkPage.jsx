@@ -59,6 +59,9 @@ function WaterTalkPage() {
           </div>
         </div>
       </div>
+      <div className="water-wireframe">
+        <p>Wireframe</p>
+      </div>
     </>
   );
 }
