@@ -255,7 +255,7 @@
 .saudipix-high-fidelity-wireframe {
   position: relative;
   width: 1585px;
-  height: 9746px;
+  height: 6340px;
   left: 0px;
   top: 1780px;
   background: #ffffff;
@@ -315,7 +315,8 @@
 
 .saudipix-pagination-container {
   position: relative;
-  top: 200px;
-  /* background: #000; */
-  color: #000;
+  top: 1780px;
+  height: 250px;
+  background: #000;
+  /* color: #000; */
 }

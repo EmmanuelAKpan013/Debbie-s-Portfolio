@@ -17,14 +17,18 @@ import missionPageImg from "../images/saudipix/Missions Page.png";
 import profileEditImg from "../images/saudipix/Profile Edit.png";
 import userLoginImg from "../images/saudipix/User Login.png";
 import userSignupImg from "../images/saudipix/User Sign Up.png";
-// import { useState } from "react";
+// import { useState, useEffect } from "react";
 // import { useNavigate } from "react-router-dom";
 
 function SaudipixPage() {
-  // const { textColor, setTextColor } = useState("black");
+  // const [lightTextColor, setLightTextColor] = useState(false);
   // const navigate = useNavigate();
   // navigate("/saudipix");
   // const paginationColor = "black";
+
+  // useEffect(() => {
+  //   setLightTextColor(true);
+  // }, []);
 
   return (
     <>
@@ -228,9 +232,9 @@ function SaudipixPage() {
             <img src={invoicesImg} alt="" />
           </div>
         </div>
-        <div className="saudipix-pagination-container">
-          <Pagination textColor={""} />
-        </div>
+      </div>
+      <div className="saudipix-pagination-container">
+        <Pagination />
       </div>
     </>
   );
