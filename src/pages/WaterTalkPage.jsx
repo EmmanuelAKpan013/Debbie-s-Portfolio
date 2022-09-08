@@ -19,20 +19,19 @@ function WaterTalkPage() {
         <div className="water-roleContent">
           <h3>ROLE</h3>
           <br />
-          <p>UI Design, UX Design</p>
+          <p>UI Design</p>
         </div>
         <div className="water-roleContent">
           <h3>TASK</h3>
           <br />
           <p>
-            Improve the userinterface and <br /> experience of the onboarding
-            process
+            Digital communication <br /> solution for vendors
           </p>
         </div>
         <div className="water-roleContent year">
           <h3>YEAR</h3>
           <br />
-          <p>3 days</p>
+          <p>1 Week</p>
         </div>
       </div>
     </>
