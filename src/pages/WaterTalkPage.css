@@ -1,0 +1,23 @@
+.waterLandingImageAndLogo {
+  position: relative;
+  width: 1585px;
+  height: 515px;
+  top: 116px;
+}
+
+.waterFirstImage {
+  width: 1585px;
+  height: 515px;
+}
+
+.water-logo {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1585px;
+  height: 515px;
+  left: 0;
+  top: 0;
+  z-index: 1;
+}
