@@ -35,10 +35,12 @@ function WaterTalkPage() {
         </div>
       </div>
       <div className="water-background-section">
-        <div className="water-bg-text">Background</div>
+        <div className="water-bg-text">
+          <p>Background</p>
+        </div>
         <div className="water-bg-line-and-aboutWaterTalk">
           <div className="water-bg-line-container">
-            <hr className="blom-insight-line" />
+            <hr className="water-insight-line" />
           </div>
           <div className="water-bg-aboutWaterTalk">
             <h4>Main Problems</h4>
