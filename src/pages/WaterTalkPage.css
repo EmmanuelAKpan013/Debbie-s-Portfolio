@@ -126,3 +126,12 @@
   top: 60px;
   left: 160px;
 }
+
+.water-wireframe-images {
+  position: relative;
+  top: 70px;
+  left: 160px;
+  background: green;
+  height: 100px;
+  width: 80%;
+}
