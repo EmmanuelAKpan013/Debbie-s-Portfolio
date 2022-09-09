@@ -14,6 +14,8 @@ import waterOnboardTalkImg from "../images/watertalk/iPhone 12 Graphite Pro Top 
 import waterOnboardTalkTwoImg from "../images/watertalk/iPhone 12 Graphite Pro Top View Mockup (1).png";
 import waterSignUp from "../images/watertalk/iPhone 12 Graphite Pro Top View Mockup (2).png";
 import waterLogIn from "../images/watertalk/iPhone 12 Graphite Pro Top View Mockup (3).png";
+import waterForgotPwd from "../images/watertalk/Forgot Password.png";
+import waterForgotPwdTwo from "../images/watertalk/Forgot Password -1.png";
 
 function WaterTalkPage() {
   return (
@@ -120,6 +122,17 @@ function WaterTalkPage() {
           </div>
           <div>
             <img src={waterLogIn} alt="" />
+          </div>
+        </div>
+        <p className="water-wireframe-high-fidelity-forgotPwd">
+          Forgot & Reset Password
+        </p>
+        <div className="water-HF-forgotPwd">
+          <div>
+            <img src={waterForgotPwd} alt="" />
+          </div>
+          <div>
+            <img src={waterForgotPwdTwo} alt="" />
           </div>
         </div>
       </div>

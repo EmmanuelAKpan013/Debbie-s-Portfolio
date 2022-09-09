@@ -176,3 +176,18 @@
   top: 350px;
   left: 160px;
 }
+
+.water-wireframe-high-fidelity-forgotPwd {
+  position: relative;
+  top: 370px;
+  left: 160px;
+  font-family: "Recoleta";
+  font-size: 24px;
+}
+
+.water-HF-forgotPwd {
+  display: flex;
+  position: relative;
+  top: 425px;
+  left: 160px;
+}
