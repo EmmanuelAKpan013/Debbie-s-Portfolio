@@ -2,6 +2,10 @@ import "./WaterTalkPage.css";
 import Navbar from "../components/Navbar";
 import waterLandingImage from "../images/watertalk/waterFirstImg.png";
 import waterLogo from "../images/watertalk/Water.png";
+import waterCreatePwdImg from "../images/watertalk/waterCreatePwd.png";
+import waterLoginImg from "../images/watertalk/waterLogIn.png";
+import waterSignUpImg from "../images/watertalk/waterSignUp.png";
+import waterOnboardingImg from "../images/watertalk/waterOnboarding.png";
 
 function WaterTalkPage() {
   return (
