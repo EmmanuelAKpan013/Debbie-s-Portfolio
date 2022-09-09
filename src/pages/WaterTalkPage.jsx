@@ -10,6 +10,8 @@ import waterChatImg from "../images/watertalk/waterChat.png";
 import waterChatTwoImg from "../images/watertalk/waterChat(1).png";
 import waterForgotPwdImg from "../images/watertalk/waterForgotPassword.png";
 import waterRestaurantImg from "../images/watertalk/waterRestaurant.png";
+import waterOnboardTalkImg from "../images/watertalk/iPhone 12 Graphite Pro Top View Mockup.png";
+import waterOnboardTalkTwoImg from "../images/watertalk/iPhone 12 Graphite Pro Top View Mockup (1).png";
 
 function WaterTalkPage() {
   return (
@@ -99,7 +101,14 @@ function WaterTalkPage() {
         <p className="water-wireframe-high-fidelity-onboarding">
           Onboarding Screens
         </p>
-        <div className="water-HF-onboarding-images"></div>
+        <div className="water-HF-onboarding-images">
+          <div>
+            <img src={waterOnboardTalkImg} alt="" />
+          </div>
+          <div>
+            <img src={waterOnboardTalkTwoImg} alt="" />
+          </div>
+        </div>
       </div>
     </>
   );
