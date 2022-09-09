@@ -6,6 +6,10 @@ import waterCreatePwdImg from "../images/watertalk/waterCreatePwd.png";
 import waterLoginImg from "../images/watertalk/waterLogIn.png";
 import waterSignUpImg from "../images/watertalk/waterSignUp.png";
 import waterOnboardingImg from "../images/watertalk/waterOnboarding.png";
+import waterChatImg from "../images/watertalk/waterChat.png";
+import waterChatTwoImg from "../images/watertalk/waterChat(1).png";
+import waterForgotPwdImg from "../images/watertalk/waterForgotPassword.png";
+import waterRestaurantImg from "../images/watertalk/waterRestaurant.png";
 
 function WaterTalkPage() {
   return (
@@ -77,6 +81,18 @@ function WaterTalkPage() {
           </div>
           <div>
             <img src={waterCreatePwdImg} alt="" />
+          </div>
+          <div>
+            <img src={waterForgotPwdImg} alt="" />
+          </div>
+          <div>
+            <img src={waterChatImg} alt="" />
+          </div>
+          <div>
+            <img src={waterChatTwoImg} alt="" />
+          </div>
+          <div>
+            <img src={waterRestaurantImg} alt="" />
           </div>
         </div>
       </div>
