@@ -16,6 +16,7 @@ import waterSignUp from "../images/watertalk/iPhone 12 Graphite Pro Top View Moc
 import waterLogIn from "../images/watertalk/iPhone 12 Graphite Pro Top View Mockup (3).png";
 import waterForgotPwd from "../images/watertalk/Forgot Password.png";
 import waterForgotPwdTwo from "../images/watertalk/Forgot Password -1.png";
+import Pagination from "../components/Pagination";
 
 function WaterTalkPage() {
   return (
@@ -134,6 +135,25 @@ function WaterTalkPage() {
           <div>
             <img src={waterForgotPwdTwo} alt="" />
           </div>
+        </div>
+
+        <div className="water-wireframe-high-fidelity-prototype">
+          <p className="water-prototype-header">Prototype</p>
+          <p className="water-prototype-shortnote">
+            A lot more of the design is in the prototype which you can view here
+            :{" "}
+            <a
+              className="water-prototype-link"
+              href="https://www.figma.com/proto/vDzonV8louzQRDiwYlUeMo/Watertalk-Design?page-id=28%3A14&node-id=28%3A163&viewport=241%2C48%2C0.07&scaling=min-zoom&starting-point-node-id=28%3A163&show-proto-sidebar=1"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Prototype Link
+            </a>
+          </p>
+        </div>
+        <div className="water-pagination-container">
+          <Pagination />
         </div>
       </div>
     </>

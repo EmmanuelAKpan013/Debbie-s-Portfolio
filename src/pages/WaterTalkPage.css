@@ -191,3 +191,33 @@
   top: 425px;
   left: 160px;
 }
+
+.water-wireframe-high-fidelity-prototype {
+  position: relative;
+  top: 510px;
+  left: 150px;
+  width: 1000px;
+  font-family: "Argue DEMO";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 92px;
+}
+
+.water-prototype-header {
+  font-size: 84px;
+}
+
+.water-prototype-shortnote {
+  font-family: "Circular Std";
+  font-size: 18px;
+  line-height: 54px;
+}
+
+.water-prototype-link {
+  color: #ffffff;
+}
+
+.water-pagination-container {
+  position: relative;
+  top: 550px;
+}
