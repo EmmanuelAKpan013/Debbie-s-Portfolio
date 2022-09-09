@@ -68,7 +68,7 @@ function WaterTalkPage() {
         </div>
       </div>
       <div className="water-wireframe">
-        <p>Wireframe</p>
+        <p className="water-wireframe-header">Wireframe</p>
         <div className="water-wireframe-images">
           <div>
             <img src={waterSignUpImg} alt="" />
@@ -95,6 +95,8 @@ function WaterTalkPage() {
             <img src={waterRestaurantImg} alt="" />
           </div>
         </div>
+        <p className="wireframe-high-fidelity">High Fidelity</p>
+        <p className="wireframe-high-fidelity-onboarding">Onboarding Screens</p>
       </div>
     </>
   );

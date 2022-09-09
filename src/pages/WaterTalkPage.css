@@ -121,7 +121,7 @@
   color: #ffffff;
 }
 
-.water-wireframe > p {
+.water-wireframe-header {
   position: relative;
   top: 60px;
   left: 160px;
@@ -130,10 +130,28 @@
 .water-wireframe-images {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
+  grid-row-gap: 2rem;
   position: relative;
-  top: 70px;
+  top: 130px;
   left: 160px;
   background: green;
-  height: 100px;
   width: 80%;
+}
+
+.water-wireframe-images > div {
+  border: 1px solid red;
+  width: 250px;
+}
+
+.wireframe-high-fidelity {
+  position: relative;
+  top: 180px;
+  left: 160px;
+}
+
+.wireframe-high-fidelity-onboarding {
+  position: relative;
+  top: 220px;
+  left: 160px;
+  font-size: 24px;
 }
