@@ -12,6 +12,8 @@ import waterForgotPwdImg from "../images/watertalk/waterForgotPassword.png";
 import waterRestaurantImg from "../images/watertalk/waterRestaurant.png";
 import waterOnboardTalkImg from "../images/watertalk/iPhone 12 Graphite Pro Top View Mockup.png";
 import waterOnboardTalkTwoImg from "../images/watertalk/iPhone 12 Graphite Pro Top View Mockup (1).png";
+import waterSignUp from "../images/watertalk/iPhone 12 Graphite Pro Top View Mockup (2).png";
+import waterLogIn from "../images/watertalk/iPhone 12 Graphite Pro Top View Mockup (3).png";
 
 function WaterTalkPage() {
   return (
@@ -107,6 +109,17 @@ function WaterTalkPage() {
           </div>
           <div>
             <img src={waterOnboardTalkTwoImg} alt="" />
+          </div>
+        </div>
+        <p className="water-wireframe-high-fidelity-login-and-signUp">
+          Log In & Sign Up
+        </p>
+        <div className="water-HF-Login-SignUp">
+          <div>
+            <img src={waterSignUp} alt="" />
+          </div>
+          <div>
+            <img src={waterLogIn} alt="" />
           </div>
         </div>
       </div>

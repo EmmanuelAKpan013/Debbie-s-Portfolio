@@ -134,12 +134,10 @@
   position: relative;
   top: 130px;
   left: 160px;
-  background: green;
   width: 80%;
 }
 
 .water-wireframe-images > div {
-  border: 1px solid red;
   width: 250px;
 }
 
@@ -153,6 +151,7 @@
   position: relative;
   top: 220px;
   left: 160px;
+  font-family: "Recoleta";
   font-size: 24px;
 }
 
@@ -160,5 +159,20 @@
   display: flex;
   position: relative;
   top: 270px;
+  left: 160px;
+}
+
+.water-wireframe-high-fidelity-login-and-signUp {
+  position: relative;
+  top: 300px;
+  left: 160px;
+  font-family: "Recoleta";
+  font-size: 24px;
+}
+
+.water-HF-Login-SignUp {
+  display: flex;
+  position: relative;
+  top: 350px;
   left: 160px;
 }
