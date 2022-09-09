@@ -95,8 +95,11 @@ function WaterTalkPage() {
             <img src={waterRestaurantImg} alt="" />
           </div>
         </div>
-        <p className="wireframe-high-fidelity">High Fidelity</p>
-        <p className="wireframe-high-fidelity-onboarding">Onboarding Screens</p>
+        <p className="water-wireframe-high-fidelity">High Fidelity</p>
+        <p className="water-wireframe-high-fidelity-onboarding">
+          Onboarding Screens
+        </p>
+        <div className="water-HF-onboarding-images"></div>
       </div>
     </>
   );
