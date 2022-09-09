@@ -65,7 +65,20 @@ function WaterTalkPage() {
       </div>
       <div className="water-wireframe">
         <p>Wireframe</p>
-        <div className="water-wireframe-images"></div>
+        <div className="water-wireframe-images">
+          <div>
+            <img src={waterSignUpImg} alt="" />
+          </div>
+          <div>
+            <img src={waterOnboardingImg} alt="" />
+          </div>
+          <div>
+            <img src={waterLoginImg} alt="" />
+          </div>
+          <div>
+            <img src={waterCreatePwdImg} alt="" />
+          </div>
+        </div>
       </div>
     </>
   );
