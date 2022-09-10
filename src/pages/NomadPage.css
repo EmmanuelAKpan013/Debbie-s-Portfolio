@@ -674,19 +674,13 @@
   object-fit: contain;
 }
 
-/* .landingPage-image-2 > div {
-  border: 1px solid green;
-} */
-
 .landingPage-image-2 > div > img {
   width: 600px;
-  /* height: 900px; */
   object-fit: contain;
 }
 
 .landingPage-image-2 {
   display: grid;
-  /* grid-row-gap: 0.5rem; */
 }
 
 .landingPage-image-2 > div > p {
