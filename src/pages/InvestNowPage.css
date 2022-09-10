@@ -317,7 +317,6 @@
   font-weight: 400;
   font-size: 18px;
   color: #000000;
-  /* border: 1px solid red; */
 }
 
 .invest-redesign-oldDesign > img {
@@ -334,7 +333,6 @@
   position: relative;
   top: 130px;
   height: 1600px;
-  /* border: 1px solid blue; */
 }
 
 .invest-onboarding-text {
@@ -353,7 +351,6 @@
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
-  /* border: 1px solid green; */
   width: 80%;
 }
 
