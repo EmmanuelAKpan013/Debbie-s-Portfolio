@@ -361,14 +361,12 @@
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   grid-row-gap: 1.5rem;
-  /* border: 1px solid yellow; */
 }
 
 .invest-onboarding-design-new {
   position: relative;
   top: 130px;
   height: 720px;
-  /* border: 1px solid blue; */
 }
 
 .invest-onboarding-new {
