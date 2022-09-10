@@ -664,18 +664,10 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-auto-rows: minmax(200px, 1100px);
-  /* grid-auto-rows: auto; */
-
   grid-gap: 2rem;
   width: 1250px;
-  /* border: 1px solid red; */
   text-align: center;
 }
-
-/* .landing-page-container > div { */
-/* background-color: #cfcfcf; */
-/* border: 1px solid red; */
-/* } */
 
 .landing-page-container > div > img {
   width: 600px;
